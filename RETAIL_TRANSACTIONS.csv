@@ -1,0 +1,1849 @@
+TRANSACTION_ID,YEAR,MONTH_NUMBER,MONTH_NAME,SEASON,REGION,STATE_PROVINCE,CATEGORY,SALES,UNITS
+1,2023,1,January,Winter,North,Punjab,Electronics,121893.88,441
+2,2023,1,January,Winter,North,Punjab,Clothing,87282.82,1319
+3,2023,1,January,Winter,North,Punjab,Furniture,75180.08,233
+4,2023,1,January,Winter,North,Punjab,Food & Beverages,95894.7,3518
+5,2023,1,January,Winter,North,Punjab,Sports,64747.02,586
+6,2023,1,January,Winter,North,Punjab,Toys,53562.1,1072
+7,2023,1,January,Winter,North,Punjab,Books,40152.57,1132
+8,2023,1,January,Winter,North,KPK,Electronics,122260.94,493
+9,2023,1,January,Winter,North,KPK,Clothing,85749.97,1396
+10,2023,1,January,Winter,North,KPK,Furniture,76716.61,207
+11,2023,1,January,Winter,North,KPK,Food & Beverages,93671.79,3895
+12,2023,1,January,Winter,North,KPK,Sports,63122.58,587
+13,2023,1,January,Winter,North,KPK,Toys,66524.09,1287
+14,2023,1,January,Winter,North,KPK,Books,41082.15,1133
+15,2023,1,January,Winter,North,Gilgit-Baltistan,Electronics,129197.05,527
+16,2023,1,January,Winter,North,Gilgit-Baltistan,Clothing,102224.16,1710
+17,2023,1,January,Winter,North,Gilgit-Baltistan,Furniture,70962.96,233
+18,2023,1,January,Winter,North,Gilgit-Baltistan,Food & Beverages,82673.47,3341
+19,2023,1,January,Winter,North,Gilgit-Baltistan,Sports,72851.86,745
+20,2023,1,January,Winter,North,Gilgit-Baltistan,Toys,64847.96,1317
+21,2023,1,January,Winter,North,Gilgit-Baltistan,Books,49672.19,1354
+22,2023,1,January,Winter,South,Sindh,Electronics,90918.58,348
+23,2023,1,January,Winter,South,Sindh,Clothing,69215.86,1048
+24,2023,1,January,Winter,South,Sindh,Furniture,52289.85,149
+25,2023,1,January,Winter,South,Sindh,Food & Beverages,75555.21,2940
+26,2023,1,January,Winter,South,Sindh,Sports,53915.15,507
+27,2023,1,January,Winter,South,Sindh,Toys,46039.62,1001
+28,2023,1,January,Winter,South,Sindh,Books,41358.66,1267
+29,2023,1,January,Winter,South,Balochistan,Electronics,89232.82,373
+30,2023,1,January,Winter,South,Balochistan,Clothing,71202.44,1111
+31,2023,1,January,Winter,South,Balochistan,Furniture,68123.31,210
+32,2023,1,January,Winter,South,Balochistan,Food & Beverages,73840.37,3062
+33,2023,1,January,Winter,South,Balochistan,Sports,61870.2,652
+34,2023,1,January,Winter,South,Balochistan,Toys,45476.36,824
+35,2023,1,January,Winter,South,Balochistan,Books,37407.58,1070
+36,2023,1,January,Winter,East,AJK,Electronics,73976.88,322
+37,2023,1,January,Winter,East,AJK,Clothing,72116.59,1111
+38,2023,1,January,Winter,East,AJK,Furniture,50866.3,149
+39,2023,1,January,Winter,East,AJK,Food & Beverages,66787.24,2649
+40,2023,1,January,Winter,East,AJK,Sports,42662.4,405
+41,2023,1,January,Winter,East,AJK,Toys,41245.62,785
+42,2023,1,January,Winter,East,AJK,Books,33222.18,1075
+43,2023,1,January,Winter,East,Punjab,Electronics,78555.43,296
+44,2023,1,January,Winter,East,Punjab,Clothing,74472.13,1193
+45,2023,1,January,Winter,East,Punjab,Furniture,42635.46,116
+46,2023,1,January,Winter,East,Punjab,Food & Beverages,52443.95,2151
+47,2023,1,January,Winter,East,Punjab,Sports,49921.93,491
+48,2023,1,January,Winter,East,Punjab,Toys,35196.86,687
+49,2023,1,January,Winter,East,Punjab,Books,37222.3,1123
+50,2023,1,January,Winter,West,Balochistan,Electronics,82175.29,352
+51,2023,1,January,Winter,West,Balochistan,Clothing,49158.39,821
+52,2023,1,January,Winter,West,Balochistan,Furniture,45554.97,137
+53,2023,1,January,Winter,West,Balochistan,Food & Beverages,49106.51,2019
+54,2023,1,January,Winter,West,Balochistan,Sports,36045.4,355
+55,2023,1,January,Winter,West,Balochistan,Toys,35500.22,774
+56,2023,1,January,Winter,West,Balochistan,Books,32047.37,915
+57,2023,1,January,Winter,West,KPK,Electronics,72012.66,269
+58,2023,1,January,Winter,West,KPK,Clothing,64730.21,1112
+59,2023,1,January,Winter,West,KPK,Furniture,40587.84,125
+60,2023,1,January,Winter,West,KPK,Food & Beverages,54526.09,2029
+61,2023,1,January,Winter,West,KPK,Sports,44013.13,443
+62,2023,1,January,Winter,West,KPK,Toys,39009.17,784
+63,2023,1,January,Winter,West,KPK,Books,24484.94,708
+64,2023,1,January,Winter,Central,Punjab,Electronics,77025.87,334
+65,2023,1,January,Winter,Central,Punjab,Clothing,80180.39,1367
+66,2023,1,January,Winter,Central,Punjab,Furniture,50881.73,139
+67,2023,1,January,Winter,Central,Punjab,Food & Beverages,73484.59,3202
+68,2023,1,January,Winter,Central,Punjab,Sports,44660.5,445
+69,2023,1,January,Winter,Central,Punjab,Toys,39184.37,824
+70,2023,1,January,Winter,Central,Punjab,Books,38871.01,1079
+71,2023,1,January,Winter,Central,Sindh,Electronics,89332.62,360
+72,2023,1,January,Winter,Central,Sindh,Clothing,66925.22,1150
+73,2023,1,January,Winter,Central,Sindh,Furniture,52754.83,149
+74,2023,1,January,Winter,Central,Sindh,Food & Beverages,66778.06,2793
+75,2023,1,January,Winter,Central,Sindh,Sports,46427.61,446
+76,2023,1,January,Winter,Central,Sindh,Toys,51684.52,1064
+77,2023,1,January,Winter,Central,Sindh,Books,35331.48,1063
+78,2023,2,February,Winter,North,Punjab,Electronics,96784.1,365
+79,2023,2,February,Winter,North,Punjab,Clothing,83116.55,1353
+80,2023,2,February,Winter,North,Punjab,Furniture,60215.14,170
+81,2023,2,February,Winter,North,Punjab,Food & Beverages,69773.54,2864
+82,2023,2,February,Winter,North,Punjab,Sports,56848.08,614
+83,2023,2,February,Winter,North,Punjab,Toys,60490.83,1105
+84,2023,2,February,Winter,North,Punjab,Books,40246.81,1248
+85,2023,2,February,Winter,North,KPK,Electronics,99838.4,369
+86,2023,2,February,Winter,North,KPK,Clothing,98773.96,1602
+87,2023,2,February,Winter,North,KPK,Furniture,64982.82,206
+88,2023,2,February,Winter,North,KPK,Food & Beverages,87467.31,3282
+89,2023,2,February,Winter,North,KPK,Sports,54397.42,536
+90,2023,2,February,Winter,North,KPK,Toys,53348.22,1059
+91,2023,2,February,Winter,North,KPK,Books,46681.81,1449
+92,2023,2,February,Winter,North,Gilgit-Baltistan,Electronics,125061.25,460
+93,2023,2,February,Winter,North,Gilgit-Baltistan,Clothing,84807.9,1313
+94,2023,2,February,Winter,North,Gilgit-Baltistan,Furniture,72629.04,206
+95,2023,2,February,Winter,North,Gilgit-Baltistan,Food & Beverages,72637.58,2875
+96,2023,2,February,Winter,North,Gilgit-Baltistan,Sports,60429.81,577
+97,2023,2,February,Winter,North,Gilgit-Baltistan,Toys,50501.83,1095
+98,2023,2,February,Winter,North,Gilgit-Baltistan,Books,42934.79,1381
+99,2023,2,February,Winter,South,Sindh,Electronics,93795.02,341
+100,2023,2,February,Winter,South,Sindh,Clothing,84992.09,1451
+101,2023,2,February,Winter,South,Sindh,Furniture,63240.35,205
+102,2023,2,February,Winter,South,Sindh,Food & Beverages,74848.29,2794
+103,2023,2,February,Winter,South,Sindh,Sports,52134.45,491
+104,2023,2,February,Winter,South,Sindh,Toys,44828.42,817
+105,2023,2,February,Winter,South,Sindh,Books,35618.05,1172
+106,2023,2,February,Winter,South,Balochistan,Electronics,85891.43,363
+107,2023,2,February,Winter,South,Balochistan,Clothing,72922.27,1148
+108,2023,2,February,Winter,South,Balochistan,Furniture,63046.11,207
+109,2023,2,February,Winter,South,Balochistan,Food & Beverages,68893.66,2876
+110,2023,2,February,Winter,South,Balochistan,Sports,46937.55,450
+111,2023,2,February,Winter,South,Balochistan,Toys,52696.31,1070
+112,2023,2,February,Winter,South,Balochistan,Books,37427.86,1178
+113,2023,2,February,Winter,East,AJK,Electronics,65556.51,266
+114,2023,2,February,Winter,East,AJK,Clothing,60531.72,1036
+115,2023,2,February,Winter,East,AJK,Furniture,40698.34,133
+116,2023,2,February,Winter,East,AJK,Food & Beverages,48456.41,1816
+117,2023,2,February,Winter,East,AJK,Sports,44061.39,456
+118,2023,2,February,Winter,East,AJK,Toys,34797.21,643
+119,2023,2,February,Winter,East,AJK,Books,33780.69,961
+120,2023,2,February,Winter,East,Punjab,Electronics,77743.69,318
+121,2023,2,February,Winter,East,Punjab,Clothing,59014.42,960
+122,2023,2,February,Winter,East,Punjab,Furniture,45670.03,148
+123,2023,2,February,Winter,East,Punjab,Food & Beverages,50521.24,2108
+124,2023,2,February,Winter,East,Punjab,Sports,39481.59,386
+125,2023,2,February,Winter,East,Punjab,Toys,39746.97,763
+126,2023,2,February,Winter,East,Punjab,Books,28572.36,900
+127,2023,2,February,Winter,West,Balochistan,Electronics,58582.47,232
+128,2023,2,February,Winter,West,Balochistan,Clothing,61799.07,1086
+129,2023,2,February,Winter,West,Balochistan,Furniture,35158.16,99
+130,2023,2,February,Winter,West,Balochistan,Food & Beverages,45808.72,1991
+131,2023,2,February,Winter,West,Balochistan,Sports,42430.99,456
+132,2023,2,February,Winter,West,Balochistan,Toys,32284.83,601
+133,2023,2,February,Winter,West,Balochistan,Books,29571.32,923
+134,2023,2,February,Winter,West,KPK,Electronics,69451.42,304
+135,2023,2,February,Winter,West,KPK,Clothing,56243.33,811
+136,2023,2,February,Winter,West,KPK,Furniture,44155.69,127
+137,2023,2,February,Winter,West,KPK,Food & Beverages,51695.54,2249
+138,2023,2,February,Winter,West,KPK,Sports,33902.14,312
+139,2023,2,February,Winter,West,KPK,Toys,29638.92,599
+140,2023,2,February,Winter,West,KPK,Books,25044.22,767
+141,2023,2,February,Winter,Central,Punjab,Electronics,89483.83,336
+142,2023,2,February,Winter,Central,Punjab,Clothing,69906.24,1065
+143,2023,2,February,Winter,Central,Punjab,Furniture,50226.6,162
+144,2023,2,February,Winter,Central,Punjab,Food & Beverages,67996.0,2498
+145,2023,2,February,Winter,Central,Punjab,Sports,46508.66,444
+146,2023,2,February,Winter,Central,Punjab,Toys,35744.68,753
+147,2023,2,February,Winter,Central,Punjab,Books,34982.1,999
+148,2023,2,February,Winter,Central,Sindh,Electronics,90079.02,364
+149,2023,2,February,Winter,Central,Sindh,Clothing,65742.17,948
+150,2023,2,February,Winter,Central,Sindh,Furniture,43977.69,142
+151,2023,2,February,Winter,Central,Sindh,Food & Beverages,69064.6,2787
+152,2023,2,February,Winter,Central,Sindh,Sports,52378.02,532
+153,2023,2,February,Winter,Central,Sindh,Toys,37565.98,695
+154,2023,2,February,Winter,Central,Sindh,Books,31667.24,1025
+155,2023,3,March,Spring,North,Punjab,Electronics,135886.82,582
+156,2023,3,March,Spring,North,Punjab,Clothing,111788.59,1684
+157,2023,3,March,Spring,North,Punjab,Furniture,69253.44,191
+158,2023,3,March,Spring,North,Punjab,Food & Beverages,99210.87,4273
+159,2023,3,March,Spring,North,Punjab,Sports,68733.7,703
+160,2023,3,March,Spring,North,Punjab,Toys,55933.24,1214
+161,2023,3,March,Spring,North,Punjab,Books,55380.33,1819
+162,2023,3,March,Spring,North,KPK,Electronics,136435.29,587
+163,2023,3,March,Spring,North,KPK,Clothing,85606.4,1434
+164,2023,3,March,Spring,North,KPK,Furniture,71110.21,231
+165,2023,3,March,Spring,North,KPK,Food & Beverages,99818.17,4283
+166,2023,3,March,Spring,North,KPK,Sports,77312.86,737
+167,2023,3,March,Spring,North,KPK,Toys,67779.65,1249
+168,2023,3,March,Spring,North,KPK,Books,55493.57,1784
+169,2023,3,March,Spring,North,Gilgit-Baltistan,Electronics,114407.92,486
+170,2023,3,March,Spring,North,Gilgit-Baltistan,Clothing,98651.0,1516
+171,2023,3,March,Spring,North,Gilgit-Baltistan,Furniture,81514.64,231
+172,2023,3,March,Spring,North,Gilgit-Baltistan,Food & Beverages,78441.73,2945
+173,2023,3,March,Spring,North,Gilgit-Baltistan,Sports,67076.41,719
+174,2023,3,March,Spring,North,Gilgit-Baltistan,Toys,71140.16,1359
+175,2023,3,March,Spring,North,Gilgit-Baltistan,Books,52038.83,1529
+176,2023,3,March,Spring,South,Sindh,Electronics,120842.82,486
+177,2023,3,March,Spring,South,Sindh,Clothing,95612.03,1412
+178,2023,3,March,Spring,South,Sindh,Furniture,72301.37,202
+179,2023,3,March,Spring,South,Sindh,Food & Beverages,88185.6,3361
+180,2023,3,March,Spring,South,Sindh,Sports,52810.04,521
+181,2023,3,March,Spring,South,Sindh,Toys,56420.15,1086
+182,2023,3,March,Spring,South,Sindh,Books,43585.88,1310
+183,2023,3,March,Spring,South,Balochistan,Electronics,101962.99,414
+184,2023,3,March,Spring,South,Balochistan,Clothing,78263.69,1304
+185,2023,3,March,Spring,South,Balochistan,Furniture,53888.15,175
+186,2023,3,March,Spring,South,Balochistan,Food & Beverages,78333.32,3270
+187,2023,3,March,Spring,South,Balochistan,Sports,64183.49,663
+188,2023,3,March,Spring,South,Balochistan,Toys,50649.27,925
+189,2023,3,March,Spring,South,Balochistan,Books,44321.22,1284
+190,2023,3,March,Spring,East,AJK,Electronics,81576.69,349
+191,2023,3,March,Spring,East,AJK,Clothing,73676.82,1131
+192,2023,3,March,Spring,East,AJK,Furniture,48874.0,143
+193,2023,3,March,Spring,East,AJK,Food & Beverages,61504.83,2359
+194,2023,3,March,Spring,East,AJK,Sports,43485.6,427
+195,2023,3,March,Spring,East,AJK,Toys,48907.11,1012
+196,2023,3,March,Spring,East,AJK,Books,38736.29,1188
+197,2023,3,March,Spring,East,Punjab,Electronics,81240.62,328
+198,2023,3,March,Spring,East,Punjab,Clothing,58760.42,900
+199,2023,3,March,Spring,East,Punjab,Furniture,50749.62,154
+200,2023,3,March,Spring,East,Punjab,Food & Beverages,66300.64,2633
+201,2023,3,March,Spring,East,Punjab,Sports,48110.44,453
+202,2023,3,March,Spring,East,Punjab,Toys,42852.49,925
+203,2023,3,March,Spring,East,Punjab,Books,37629.18,1054
+204,2023,3,March,Spring,West,Balochistan,Electronics,67233.69,269
+205,2023,3,March,Spring,West,Balochistan,Clothing,63890.37,988
+206,2023,3,March,Spring,West,Balochistan,Furniture,50481.89,159
+207,2023,3,March,Spring,West,Balochistan,Food & Beverages,59239.56,2239
+208,2023,3,March,Spring,West,Balochistan,Sports,39591.84,358
+209,2023,3,March,Spring,West,Balochistan,Toys,35460.59,705
+210,2023,3,March,Spring,West,Balochistan,Books,33943.18,931
+211,2023,3,March,Spring,West,KPK,Electronics,74828.72,307
+212,2023,3,March,Spring,West,KPK,Clothing,55807.83,927
+213,2023,3,March,Spring,West,KPK,Furniture,46002.27,130
+214,2023,3,March,Spring,West,KPK,Food & Beverages,58956.76,2125
+215,2023,3,March,Spring,West,KPK,Sports,46796.59,493
+216,2023,3,March,Spring,West,KPK,Toys,33867.89,667
+217,2023,3,March,Spring,West,KPK,Books,27732.97,908
+218,2023,3,March,Spring,Central,Punjab,Electronics,96517.18,351
+219,2023,3,March,Spring,Central,Punjab,Clothing,71021.53,1215
+220,2023,3,March,Spring,Central,Punjab,Furniture,56847.66,180
+221,2023,3,March,Spring,Central,Punjab,Food & Beverages,73939.24,3246
+222,2023,3,March,Spring,Central,Punjab,Sports,55957.78,609
+223,2023,3,March,Spring,Central,Punjab,Toys,53636.53,1096
+224,2023,3,March,Spring,Central,Punjab,Books,40926.04,1228
+225,2023,3,March,Spring,Central,Sindh,Electronics,105520.39,426
+226,2023,3,March,Spring,Central,Sindh,Clothing,85951.67,1442
+227,2023,3,March,Spring,Central,Sindh,Furniture,57162.37,163
+228,2023,3,March,Spring,Central,Sindh,Food & Beverages,65061.7,2674
+229,2023,3,March,Spring,Central,Sindh,Sports,58738.08,589
+230,2023,3,March,Spring,Central,Sindh,Toys,49825.18,951
+231,2023,3,March,Spring,Central,Sindh,Books,33532.61,962
+232,2023,4,April,Spring,North,Punjab,Electronics,123518.83,476
+233,2023,4,April,Spring,North,Punjab,Clothing,107357.8,1593
+234,2023,4,April,Spring,North,Punjab,Furniture,73145.75,227
+235,2023,4,April,Spring,North,Punjab,Food & Beverages,103261.66,3770
+236,2023,4,April,Spring,North,Punjab,Sports,73057.1,736
+237,2023,4,April,Spring,North,Punjab,Toys,64624.75,1216
+238,2023,4,April,Spring,North,Punjab,Books,51769.32,1678
+239,2023,4,April,Spring,North,KPK,Electronics,135944.68,565
+240,2023,4,April,Spring,North,KPK,Clothing,117432.64,1978
+241,2023,4,April,Spring,North,KPK,Furniture,76704.93,207
+242,2023,4,April,Spring,North,KPK,Food & Beverages,92915.51,3905
+243,2023,4,April,Spring,North,KPK,Sports,83107.42,906
+244,2023,4,April,Spring,North,KPK,Toys,64689.33,1357
+245,2023,4,April,Spring,North,KPK,Books,53774.06,1646
+246,2023,4,April,Spring,North,Gilgit-Baltistan,Electronics,121483.03,458
+247,2023,4,April,Spring,North,Gilgit-Baltistan,Clothing,104038.04,1507
+248,2023,4,April,Spring,North,Gilgit-Baltistan,Furniture,75648.74,235
+249,2023,4,April,Spring,North,Gilgit-Baltistan,Food & Beverages,94448.73,3524
+250,2023,4,April,Spring,North,Gilgit-Baltistan,Sports,74404.91,688
+251,2023,4,April,Spring,North,Gilgit-Baltistan,Toys,68731.69,1244
+252,2023,4,April,Spring,North,Gilgit-Baltistan,Books,51353.65,1560
+253,2023,4,April,Spring,South,Sindh,Electronics,96282.25,396
+254,2023,4,April,Spring,South,Sindh,Clothing,79950.12,1269
+255,2023,4,April,Spring,South,Sindh,Furniture,58237.55,170
+256,2023,4,April,Spring,South,Sindh,Food & Beverages,75162.62,2902
+257,2023,4,April,Spring,South,Sindh,Sports,68562.7,669
+258,2023,4,April,Spring,South,Sindh,Toys,60341.33,1286
+259,2023,4,April,Spring,South,Sindh,Books,41544.58,1142
+260,2023,4,April,Spring,South,Balochistan,Electronics,96022.44,387
+261,2023,4,April,Spring,South,Balochistan,Clothing,103221.52,1601
+262,2023,4,April,Spring,South,Balochistan,Furniture,70352.31,222
+263,2023,4,April,Spring,South,Balochistan,Food & Beverages,86025.91,3616
+264,2023,4,April,Spring,South,Balochistan,Sports,72155.89,678
+265,2023,4,April,Spring,South,Balochistan,Toys,48028.0,893
+266,2023,4,April,Spring,South,Balochistan,Books,39847.44,1235
+267,2023,4,April,Spring,East,AJK,Electronics,93561.72,353
+268,2023,4,April,Spring,East,AJK,Clothing,77834.61,1311
+269,2023,4,April,Spring,East,AJK,Furniture,49590.55,151
+270,2023,4,April,Spring,East,AJK,Food & Beverages,72327.11,2670
+271,2023,4,April,Spring,East,AJK,Sports,57003.01,623
+272,2023,4,April,Spring,East,AJK,Toys,40503.52,733
+273,2023,4,April,Spring,East,AJK,Books,34648.52,1076
+274,2023,4,April,Spring,East,Punjab,Electronics,104418.08,409
+275,2023,4,April,Spring,East,Punjab,Clothing,78177.2,1144
+276,2023,4,April,Spring,East,Punjab,Furniture,58229.71,179
+277,2023,4,April,Spring,East,Punjab,Food & Beverages,59280.0,2500
+278,2023,4,April,Spring,East,Punjab,Sports,57486.68,586
+279,2023,4,April,Spring,East,Punjab,Toys,40681.93,892
+280,2023,4,April,Spring,East,Punjab,Books,39833.51,1158
+281,2023,4,April,Spring,West,Balochistan,Electronics,79846.69,311
+282,2023,4,April,Spring,West,Balochistan,Clothing,65396.74,1013
+283,2023,4,April,Spring,West,Balochistan,Furniture,54094.57,172
+284,2023,4,April,Spring,West,Balochistan,Food & Beverages,52758.63,2304
+285,2023,4,April,Spring,West,Balochistan,Sports,48120.84,512
+286,2023,4,April,Spring,West,Balochistan,Toys,43337.46,855
+287,2023,4,April,Spring,West,Balochistan,Books,34929.32,1145
+288,2023,4,April,Spring,West,KPK,Electronics,75971.62,322
+289,2023,4,April,Spring,West,KPK,Clothing,66027.58,1052
+290,2023,4,April,Spring,West,KPK,Furniture,48013.72,150
+291,2023,4,April,Spring,West,KPK,Food & Beverages,55682.24,2383
+292,2023,4,April,Spring,West,KPK,Sports,50827.9,466
+293,2023,4,April,Spring,West,KPK,Toys,45471.17,862
+294,2023,4,April,Spring,West,KPK,Books,32294.43,990
+295,2023,4,April,Spring,Central,Punjab,Electronics,98297.07,356
+296,2023,4,April,Spring,Central,Punjab,Clothing,90191.33,1351
+297,2023,4,April,Spring,Central,Punjab,Furniture,55914.52,177
+298,2023,4,April,Spring,Central,Punjab,Food & Beverages,71217.2,3065
+299,2023,4,April,Spring,Central,Punjab,Sports,61288.53,585
+300,2023,4,April,Spring,Central,Punjab,Toys,43505.31,948
+301,2023,4,April,Spring,Central,Punjab,Books,35727.9,1119
+302,2023,4,April,Spring,Central,Sindh,Electronics,101650.48,427
+303,2023,4,April,Spring,Central,Sindh,Clothing,86266.12,1420
+304,2023,4,April,Spring,Central,Sindh,Furniture,61031.48,193
+305,2023,4,April,Spring,Central,Sindh,Food & Beverages,65668.12,2480
+306,2023,4,April,Spring,Central,Sindh,Sports,61125.59,587
+307,2023,4,April,Spring,Central,Sindh,Toys,52247.8,1039
+308,2023,4,April,Spring,Central,Sindh,Books,41178.48,1216
+309,2023,5,May,Spring,North,Punjab,Electronics,150758.8,582
+310,2023,5,May,Spring,North,Punjab,Clothing,119155.4,1819
+311,2023,5,May,Spring,North,Punjab,Furniture,77957.47,216
+312,2023,5,May,Spring,North,Punjab,Food & Beverages,93464.54,3454
+313,2023,5,May,Spring,North,Punjab,Sports,80416.0,846
+314,2023,5,May,Spring,North,Punjab,Toys,63569.26,1199
+315,2023,5,May,Spring,North,Punjab,Books,55893.78,1752
+316,2023,5,May,Spring,North,KPK,Electronics,160474.69,645
+317,2023,5,May,Spring,North,KPK,Clothing,105007.92,1545
+318,2023,5,May,Spring,North,KPK,Furniture,76509.74,217
+319,2023,5,May,Spring,North,KPK,Food & Beverages,93058.59,3360
+320,2023,5,May,Spring,North,KPK,Sports,80374.74,767
+321,2023,5,May,Spring,North,KPK,Toys,80188.65,1620
+322,2023,5,May,Spring,North,KPK,Books,59486.09,1651
+323,2023,5,May,Spring,North,Gilgit-Baltistan,Electronics,155919.59,622
+324,2023,5,May,Spring,North,Gilgit-Baltistan,Clothing,124879.16,2027
+325,2023,5,May,Spring,North,Gilgit-Baltistan,Furniture,83466.6,247
+326,2023,5,May,Spring,North,Gilgit-Baltistan,Food & Beverages,93210.63,3393
+327,2023,5,May,Spring,North,Gilgit-Baltistan,Sports,90087.31,896
+328,2023,5,May,Spring,North,Gilgit-Baltistan,Toys,76983.76,1509
+329,2023,5,May,Spring,North,Gilgit-Baltistan,Books,48984.14,1507
+330,2023,5,May,Spring,South,Sindh,Electronics,102890.63,382
+331,2023,5,May,Spring,South,Sindh,Clothing,96831.68,1488
+332,2023,5,May,Spring,South,Sindh,Furniture,81841.95,226
+333,2023,5,May,Spring,South,Sindh,Food & Beverages,94031.49,3841
+334,2023,5,May,Spring,South,Sindh,Sports,73191.8,691
+335,2023,5,May,Spring,South,Sindh,Toys,59802.24,1184
+336,2023,5,May,Spring,South,Sindh,Books,46703.43,1502
+337,2023,5,May,Spring,South,Balochistan,Electronics,136264.71,523
+338,2023,5,May,Spring,South,Balochistan,Clothing,98490.73,1610
+339,2023,5,May,Spring,South,Balochistan,Furniture,76414.07,249
+340,2023,5,May,Spring,South,Balochistan,Food & Beverages,79482.74,2995
+341,2023,5,May,Spring,South,Balochistan,Sports,70560.01,657
+342,2023,5,May,Spring,South,Balochistan,Toys,53587.36,980
+343,2023,5,May,Spring,South,Balochistan,Books,40430.15,1200
+344,2023,5,May,Spring,East,AJK,Electronics,99935.53,383
+345,2023,5,May,Spring,East,AJK,Clothing,71495.88,1191
+346,2023,5,May,Spring,East,AJK,Furniture,61871.47,183
+347,2023,5,May,Spring,East,AJK,Food & Beverages,75287.04,3266
+348,2023,5,May,Spring,East,AJK,Sports,59836.07,613
+349,2023,5,May,Spring,East,AJK,Toys,50950.05,1107
+350,2023,5,May,Spring,East,AJK,Books,38006.82,1150
+351,2023,5,May,Spring,East,Punjab,Electronics,101505.03,439
+352,2023,5,May,Spring,East,Punjab,Clothing,85379.65,1248
+353,2023,5,May,Spring,East,Punjab,Furniture,52474.99,151
+354,2023,5,May,Spring,East,Punjab,Food & Beverages,76603.71,3106
+355,2023,5,May,Spring,East,Punjab,Sports,51587.0,477
+356,2023,5,May,Spring,East,Punjab,Toys,51350.93,1068
+357,2023,5,May,Spring,East,Punjab,Books,44043.38,1321
+358,2023,5,May,Spring,West,Balochistan,Electronics,86239.17,316
+359,2023,5,May,Spring,West,Balochistan,Clothing,59578.55,940
+360,2023,5,May,Spring,West,Balochistan,Furniture,49076.75,139
+361,2023,5,May,Spring,West,Balochistan,Food & Beverages,55591.94,2429
+362,2023,5,May,Spring,West,Balochistan,Sports,53894.56,547
+363,2023,5,May,Spring,West,Balochistan,Toys,49042.19,1078
+364,2023,5,May,Spring,West,Balochistan,Books,36346.22,1040
+365,2023,5,May,Spring,West,KPK,Electronics,74482.8,313
+366,2023,5,May,Spring,West,KPK,Clothing,68508.31,1129
+367,2023,5,May,Spring,West,KPK,Furniture,58310.76,163
+368,2023,5,May,Spring,West,KPK,Food & Beverages,64981.95,2669
+369,2023,5,May,Spring,West,KPK,Sports,48838.47,448
+370,2023,5,May,Spring,West,KPK,Toys,41229.58,797
+371,2023,5,May,Spring,West,KPK,Books,36323.94,1167
+372,2023,5,May,Spring,Central,Punjab,Electronics,102485.64,425
+373,2023,5,May,Spring,Central,Punjab,Clothing,80910.61,1409
+374,2023,5,May,Spring,Central,Punjab,Furniture,70895.72,214
+375,2023,5,May,Spring,Central,Punjab,Food & Beverages,78126.66,3009
+376,2023,5,May,Spring,Central,Punjab,Sports,57955.31,634
+377,2023,5,May,Spring,Central,Punjab,Toys,52447.64,1052
+378,2023,5,May,Spring,Central,Punjab,Books,49526.03,1532
+379,2023,5,May,Spring,Central,Sindh,Electronics,109380.03,429
+380,2023,5,May,Spring,Central,Sindh,Clothing,78302.14,1218
+381,2023,5,May,Spring,Central,Sindh,Furniture,69785.25,214
+382,2023,5,May,Spring,Central,Sindh,Food & Beverages,85377.38,3212
+383,2023,5,May,Spring,Central,Sindh,Sports,62103.67,674
+384,2023,5,May,Spring,Central,Sindh,Toys,52997.48,1101
+385,2023,5,May,Spring,Central,Sindh,Books,38293.68,1257
+386,2023,6,June,Summer,North,Punjab,Electronics,153040.43,580
+387,2023,6,June,Summer,North,Punjab,Clothing,106409.19,1719
+388,2023,6,June,Summer,North,Punjab,Furniture,90313.86,248
+389,2023,6,June,Summer,North,Punjab,Food & Beverages,124729.55,5401
+390,2023,6,June,Summer,North,Punjab,Sports,83008.72,766
+391,2023,6,June,Summer,North,Punjab,Toys,81483.54,1629
+392,2023,6,June,Summer,North,Punjab,Books,63132.07,1897
+393,2023,6,June,Summer,North,KPK,Electronics,138126.47,589
+394,2023,6,June,Summer,North,KPK,Clothing,135641.34,2059
+395,2023,6,June,Summer,North,KPK,Furniture,90287.55,264
+396,2023,6,June,Summer,North,KPK,Food & Beverages,122434.59,4905
+397,2023,6,June,Summer,North,KPK,Sports,93536.75,1003
+398,2023,6,June,Summer,North,KPK,Toys,69125.98,1462
+399,2023,6,June,Summer,North,KPK,Books,57767.34,1883
+400,2023,6,June,Summer,North,Gilgit-Baltistan,Electronics,148544.02,632
+401,2023,6,June,Summer,North,Gilgit-Baltistan,Clothing,110836.02,1701
+402,2023,6,June,Summer,North,Gilgit-Baltistan,Furniture,91239.15,301
+403,2023,6,June,Summer,North,Gilgit-Baltistan,Food & Beverages,108342.23,4029
+404,2023,6,June,Summer,North,Gilgit-Baltistan,Sports,84952.0,823
+405,2023,6,June,Summer,North,Gilgit-Baltistan,Toys,75254.12,1518
+406,2023,6,June,Summer,North,Gilgit-Baltistan,Books,58485.85,1692
+407,2023,6,June,Summer,South,Sindh,Electronics,113687.1,472
+408,2023,6,June,Summer,South,Sindh,Clothing,102480.82,1552
+409,2023,6,June,Summer,South,Sindh,Furniture,81459.59,222
+410,2023,6,June,Summer,South,Sindh,Food & Beverages,98710.93,4110
+411,2023,6,June,Summer,South,Sindh,Sports,77698.61,759
+412,2023,6,June,Summer,South,Sindh,Toys,65778.99,1399
+413,2023,6,June,Summer,South,Sindh,Books,57395.35,1720
+414,2023,6,June,Summer,South,Balochistan,Electronics,107982.68,432
+415,2023,6,June,Summer,South,Balochistan,Clothing,103034.07,1770
+416,2023,6,June,Summer,South,Balochistan,Furniture,83686.23,248
+417,2023,6,June,Summer,South,Balochistan,Food & Beverages,92675.94,3675
+418,2023,6,June,Summer,South,Balochistan,Sports,75802.06,744
+419,2023,6,June,Summer,South,Balochistan,Toys,65611.44,1221
+420,2023,6,June,Summer,South,Balochistan,Books,49700.89,1630
+421,2023,6,June,Summer,East,AJK,Electronics,97630.91,405
+422,2023,6,June,Summer,East,AJK,Clothing,85769.58,1468
+423,2023,6,June,Summer,East,AJK,Furniture,68067.04,218
+424,2023,6,June,Summer,East,AJK,Food & Beverages,72531.57,2794
+425,2023,6,June,Summer,East,AJK,Sports,61954.87,651
+426,2023,6,June,Summer,East,AJK,Toys,57030.97,1034
+427,2023,6,June,Summer,East,AJK,Books,35726.4,1099
+428,2023,6,June,Summer,East,Punjab,Electronics,115556.2,508
+429,2023,6,June,Summer,East,Punjab,Clothing,88156.38,1391
+430,2023,6,June,Summer,East,Punjab,Furniture,54144.05,166
+431,2023,6,June,Summer,East,Punjab,Food & Beverages,83649.86,3308
+432,2023,6,June,Summer,East,Punjab,Sports,61523.77,664
+433,2023,6,June,Summer,East,Punjab,Toys,44312.8,938
+434,2023,6,June,Summer,East,Punjab,Books,38495.94,1125
+435,2023,6,June,Summer,West,Balochistan,Electronics,81502.79,328
+436,2023,6,June,Summer,West,Balochistan,Clothing,74403.03,1260
+437,2023,6,June,Summer,West,Balochistan,Furniture,49302.45,135
+438,2023,6,June,Summer,West,Balochistan,Food & Beverages,74320.53,3043
+439,2023,6,June,Summer,West,Balochistan,Sports,47661.83,515
+440,2023,6,June,Summer,West,Balochistan,Toys,40717.85,808
+441,2023,6,June,Summer,West,Balochistan,Books,33787.53,964
+442,2023,6,June,Summer,West,KPK,Electronics,77777.11,330
+443,2023,6,June,Summer,West,KPK,Clothing,81741.67,1354
+444,2023,6,June,Summer,West,KPK,Furniture,49105.33,145
+445,2023,6,June,Summer,West,KPK,Food & Beverages,63781.43,2595
+446,2023,6,June,Summer,West,KPK,Sports,53834.11,530
+447,2023,6,June,Summer,West,KPK,Toys,42181.34,901
+448,2023,6,June,Summer,West,KPK,Books,33188.23,972
+449,2023,6,June,Summer,Central,Punjab,Electronics,113425.72,429
+450,2023,6,June,Summer,Central,Punjab,Clothing,93167.8,1512
+451,2023,6,June,Summer,Central,Punjab,Furniture,78510.04,225
+452,2023,6,June,Summer,Central,Punjab,Food & Beverages,95586.85,3944
+453,2023,6,June,Summer,Central,Punjab,Sports,60229.43,610
+454,2023,6,June,Summer,Central,Punjab,Toys,60177.17,1262
+455,2023,6,June,Summer,Central,Punjab,Books,39430.93,1208
+456,2023,6,June,Summer,Central,Sindh,Electronics,113888.07,492
+457,2023,6,June,Summer,Central,Sindh,Clothing,85350.27,1447
+458,2023,6,June,Summer,Central,Sindh,Furniture,70596.97,205
+459,2023,6,June,Summer,Central,Sindh,Food & Beverages,87026.38,3565
+460,2023,6,June,Summer,Central,Sindh,Sports,68045.08,710
+461,2023,6,June,Summer,Central,Sindh,Toys,59722.0,1275
+462,2023,6,June,Summer,Central,Sindh,Books,47354.43,1535
+463,2023,7,July,Summer,North,Punjab,Electronics,162848.74,626
+464,2023,7,July,Summer,North,Punjab,Clothing,122584.42,1992
+465,2023,7,July,Summer,North,Punjab,Furniture,100124.66,275
+466,2023,7,July,Summer,North,Punjab,Food & Beverages,107368.19,4507
+467,2023,7,July,Summer,North,Punjab,Sports,79797.97,739
+468,2023,7,July,Summer,North,Punjab,Toys,78922.14,1727
+469,2023,7,July,Summer,North,Punjab,Books,62977.56,2045
+470,2023,7,July,Summer,North,KPK,Electronics,171466.12,652
+471,2023,7,July,Summer,North,KPK,Clothing,136956.39,2183
+472,2023,7,July,Summer,North,KPK,Furniture,102206.2,321
+473,2023,7,July,Summer,North,KPK,Food & Beverages,108864.71,4019
+474,2023,7,July,Summer,North,KPK,Sports,100675.93,934
+475,2023,7,July,Summer,North,KPK,Toys,88916.1,1906
+476,2023,7,July,Summer,North,KPK,Books,66597.34,2189
+477,2023,7,July,Summer,North,Gilgit-Baltistan,Electronics,177868.22,754
+478,2023,7,July,Summer,North,Gilgit-Baltistan,Clothing,119774.62,2027
+479,2023,7,July,Summer,North,Gilgit-Baltistan,Furniture,79950.84,241
+480,2023,7,July,Summer,North,Gilgit-Baltistan,Food & Beverages,112848.26,4669
+481,2023,7,July,Summer,North,Gilgit-Baltistan,Sports,92970.48,945
+482,2023,7,July,Summer,North,Gilgit-Baltistan,Toys,85544.56,1861
+483,2023,7,July,Summer,North,Gilgit-Baltistan,Books,55068.24,1564
+484,2023,7,July,Summer,South,Sindh,Electronics,113190.98,487
+485,2023,7,July,Summer,South,Sindh,Clothing,107545.39,1863
+486,2023,7,July,Summer,South,Sindh,Furniture,72579.68,198
+487,2023,7,July,Summer,South,Sindh,Food & Beverages,106204.76,4596
+488,2023,7,July,Summer,South,Sindh,Sports,70361.15,690
+489,2023,7,July,Summer,South,Sindh,Toys,58867.58,1282
+490,2023,7,July,Summer,South,Sindh,Books,49701.14,1488
+491,2023,7,July,Summer,South,Balochistan,Electronics,116048.8,500
+492,2023,7,July,Summer,South,Balochistan,Clothing,94057.84,1490
+493,2023,7,July,Summer,South,Balochistan,Furniture,83250.75,261
+494,2023,7,July,Summer,South,Balochistan,Food & Beverages,109751.09,4319
+495,2023,7,July,Summer,South,Balochistan,Sports,80236.52,746
+496,2023,7,July,Summer,South,Balochistan,Toys,64314.71,1183
+497,2023,7,July,Summer,South,Balochistan,Books,52631.26,1549
+498,2023,7,July,Summer,East,AJK,Electronics,122629.3,444
+499,2023,7,July,Summer,East,AJK,Clothing,83044.14,1313
+500,2023,7,July,Summer,East,AJK,Furniture,73558.79,236
+501,2023,7,July,Summer,East,AJK,Food & Beverages,69680.67,2890
+502,2023,7,July,Summer,East,AJK,Sports,62016.39,679
+503,2023,7,July,Summer,East,AJK,Toys,51710.52,1013
+504,2023,7,July,Summer,East,AJK,Books,39179.92,1086
+505,2023,7,July,Summer,East,Punjab,Electronics,119276.28,472
+506,2023,7,July,Summer,East,Punjab,Clothing,90618.97,1490
+507,2023,7,July,Summer,East,Punjab,Furniture,66688.52,180
+508,2023,7,July,Summer,East,Punjab,Food & Beverages,86014.24,3264
+509,2023,7,July,Summer,East,Punjab,Sports,54331.96,550
+510,2023,7,July,Summer,East,Punjab,Toys,47011.48,990
+511,2023,7,July,Summer,East,Punjab,Books,39404.76,1114
+512,2023,7,July,Summer,West,Balochistan,Electronics,106647.23,411
+513,2023,7,July,Summer,West,Balochistan,Clothing,68679.65,1186
+514,2023,7,July,Summer,West,Balochistan,Furniture,49009.0,157
+515,2023,7,July,Summer,West,Balochistan,Food & Beverages,62895.81,2329
+516,2023,7,July,Summer,West,Balochistan,Sports,50330.68,470
+517,2023,7,July,Summer,West,Balochistan,Toys,50319.23,910
+518,2023,7,July,Summer,West,Balochistan,Books,32811.19,1041
+519,2023,7,July,Summer,West,KPK,Electronics,88452.43,341
+520,2023,7,July,Summer,West,KPK,Clothing,69294.63,1009
+521,2023,7,July,Summer,West,KPK,Furniture,61776.89,186
+522,2023,7,July,Summer,West,KPK,Food & Beverages,75588.45,3009
+523,2023,7,July,Summer,West,KPK,Sports,58937.24,590
+524,2023,7,July,Summer,West,KPK,Toys,42370.38,848
+525,2023,7,July,Summer,West,KPK,Books,43531.19,1186
+526,2023,7,July,Summer,Central,Punjab,Electronics,130196.17,559
+527,2023,7,July,Summer,Central,Punjab,Clothing,96617.79,1532
+528,2023,7,July,Summer,Central,Punjab,Furniture,82022.97,224
+529,2023,7,July,Summer,Central,Punjab,Food & Beverages,87445.12,3428
+530,2023,7,July,Summer,Central,Punjab,Sports,71796.39,716
+531,2023,7,July,Summer,Central,Punjab,Toys,67374.61,1232
+532,2023,7,July,Summer,Central,Punjab,Books,41963.38,1286
+533,2023,7,July,Summer,Central,Sindh,Electronics,104364.56,398
+534,2023,7,July,Summer,Central,Sindh,Clothing,99832.61,1612
+535,2023,7,July,Summer,Central,Sindh,Furniture,68224.01,224
+536,2023,7,July,Summer,Central,Sindh,Food & Beverages,88806.7,3519
+537,2023,7,July,Summer,Central,Sindh,Sports,70150.71,645
+538,2023,7,July,Summer,Central,Sindh,Toys,63632.03,1362
+539,2023,7,July,Summer,Central,Sindh,Books,50173.2,1586
+540,2023,8,August,Summer,North,Punjab,Electronics,174652.07,658
+541,2023,8,August,Summer,North,Punjab,Clothing,129135.53,1953
+542,2023,8,August,Summer,North,Punjab,Furniture,93531.06,277
+543,2023,8,August,Summer,North,Punjab,Food & Beverages,117092.6,4304
+544,2023,8,August,Summer,North,Punjab,Sports,90780.67,937
+545,2023,8,August,Summer,North,Punjab,Toys,78811.58,1466
+546,2023,8,August,Summer,North,Punjab,Books,73834.19,2023
+547,2023,8,August,Summer,North,KPK,Electronics,180103.27,661
+548,2023,8,August,Summer,North,KPK,Clothing,115180.14,1930
+549,2023,8,August,Summer,North,KPK,Furniture,107472.21,326
+550,2023,8,August,Summer,North,KPK,Food & Beverages,123235.86,4990
+551,2023,8,August,Summer,North,KPK,Sports,88076.32,814
+552,2023,8,August,Summer,North,KPK,Toys,78302.9,1617
+553,2023,8,August,Summer,North,KPK,Books,70439.59,2268
+554,2023,8,August,Summer,North,Gilgit-Baltistan,Electronics,174662.92,764
+555,2023,8,August,Summer,North,Gilgit-Baltistan,Clothing,134987.32,2095
+556,2023,8,August,Summer,North,Gilgit-Baltistan,Furniture,100577.35,284
+557,2023,8,August,Summer,North,Gilgit-Baltistan,Food & Beverages,125768.15,4753
+558,2023,8,August,Summer,North,Gilgit-Baltistan,Sports,81910.45,875
+559,2023,8,August,Summer,North,Gilgit-Baltistan,Toys,78645.98,1655
+560,2023,8,August,Summer,North,Gilgit-Baltistan,Books,66976.51,2132
+561,2023,8,August,Summer,South,Sindh,Electronics,152951.55,669
+562,2023,8,August,Summer,South,Sindh,Clothing,121472.15,1987
+563,2023,8,August,Summer,South,Sindh,Furniture,86720.06,235
+564,2023,8,August,Summer,South,Sindh,Food & Beverages,114723.64,4891
+565,2023,8,August,Summer,South,Sindh,Sports,73060.6,683
+566,2023,8,August,Summer,South,Sindh,Toys,73514.11,1414
+567,2023,8,August,Summer,South,Sindh,Books,52775.96,1426
+568,2023,8,August,Summer,South,Balochistan,Electronics,153978.89,624
+569,2023,8,August,Summer,South,Balochistan,Clothing,107579.69,1597
+570,2023,8,August,Summer,South,Balochistan,Furniture,86482.38,235
+571,2023,8,August,Summer,South,Balochistan,Food & Beverages,109144.44,4117
+572,2023,8,August,Summer,South,Balochistan,Sports,76651.09,742
+573,2023,8,August,Summer,South,Balochistan,Toys,66598.4,1390
+574,2023,8,August,Summer,South,Balochistan,Books,60044.33,1825
+575,2023,8,August,Summer,East,AJK,Electronics,99280.24,361
+576,2023,8,August,Summer,East,AJK,Clothing,81396.07,1333
+577,2023,8,August,Summer,East,AJK,Furniture,71591.05,204
+578,2023,8,August,Summer,East,AJK,Food & Beverages,87200.05,3477
+579,2023,8,August,Summer,East,AJK,Sports,63142.73,602
+580,2023,8,August,Summer,East,AJK,Toys,61036.58,1126
+581,2023,8,August,Summer,East,AJK,Books,44406.26,1274
+582,2023,8,August,Summer,East,Punjab,Electronics,119472.1,476
+583,2023,8,August,Summer,East,Punjab,Clothing,95268.68,1385
+584,2023,8,August,Summer,East,Punjab,Furniture,65902.12,201
+585,2023,8,August,Summer,East,Punjab,Food & Beverages,70877.78,2722
+586,2023,8,August,Summer,East,Punjab,Sports,58693.17,544
+587,2023,8,August,Summer,East,Punjab,Toys,52541.39,1014
+588,2023,8,August,Summer,East,Punjab,Books,38661.19,1217
+589,2023,8,August,Summer,West,Balochistan,Electronics,90993.01,355
+590,2023,8,August,Summer,West,Balochistan,Clothing,85567.22,1369
+591,2023,8,August,Summer,West,Balochistan,Furniture,66528.38,211
+592,2023,8,August,Summer,West,Balochistan,Food & Beverages,64430.35,2763
+593,2023,8,August,Summer,West,Balochistan,Sports,49276.89,445
+594,2023,8,August,Summer,West,Balochistan,Toys,56767.98,1217
+595,2023,8,August,Summer,West,Balochistan,Books,41236.38,1255
+596,2023,8,August,Summer,West,KPK,Electronics,107135.25,421
+597,2023,8,August,Summer,West,KPK,Clothing,71330.27,1031
+598,2023,8,August,Summer,West,KPK,Furniture,57300.59,182
+599,2023,8,August,Summer,West,KPK,Food & Beverages,76539.55,3264
+600,2023,8,August,Summer,West,KPK,Sports,64313.17,590
+601,2023,8,August,Summer,West,KPK,Toys,55608.6,1055
+602,2023,8,August,Summer,West,KPK,Books,41394.99,1247
+603,2023,8,August,Summer,Central,Punjab,Electronics,122059.98,469
+604,2023,8,August,Summer,Central,Punjab,Clothing,95946.88,1483
+605,2023,8,August,Summer,Central,Punjab,Furniture,68073.25,204
+606,2023,8,August,Summer,Central,Punjab,Food & Beverages,81700.82,3274
+607,2023,8,August,Summer,Central,Punjab,Sports,80094.86,776
+608,2023,8,August,Summer,Central,Punjab,Toys,67297.47,1431
+609,2023,8,August,Summer,Central,Punjab,Books,55163.36,1567
+610,2023,8,August,Summer,Central,Sindh,Electronics,112635.59,423
+611,2023,8,August,Summer,Central,Sindh,Clothing,103896.55,1748
+612,2023,8,August,Summer,Central,Sindh,Furniture,79126.94,222
+613,2023,8,August,Summer,Central,Sindh,Food & Beverages,99963.35,3993
+614,2023,8,August,Summer,Central,Sindh,Sports,76850.23,808
+615,2023,8,August,Summer,Central,Sindh,Toys,62034.31,1345
+616,2023,8,August,Summer,Central,Sindh,Books,51375.12,1582
+617,2023,9,September,Autumn,North,Punjab,Electronics,153736.24,659
+618,2023,9,September,Autumn,North,Punjab,Clothing,123084.87,1831
+619,2023,9,September,Autumn,North,Punjab,Furniture,77403.6,229
+620,2023,9,September,Autumn,North,Punjab,Food & Beverages,102251.16,3905
+621,2023,9,September,Autumn,North,Punjab,Sports,72798.2,729
+622,2023,9,September,Autumn,North,Punjab,Toys,69885.37,1384
+623,2023,9,September,Autumn,North,Punjab,Books,51399.73,1644
+624,2023,9,September,Autumn,North,KPK,Electronics,129381.46,555
+625,2023,9,September,Autumn,North,KPK,Clothing,131197.07,2147
+626,2023,9,September,Autumn,North,KPK,Furniture,89108.54,265
+627,2023,9,September,Autumn,North,KPK,Food & Beverages,110450.93,4675
+628,2023,9,September,Autumn,North,KPK,Sports,93953.72,930
+629,2023,9,September,Autumn,North,KPK,Toys,80987.21,1668
+630,2023,9,September,Autumn,North,KPK,Books,56106.03,1674
+631,2023,9,September,Autumn,North,Gilgit-Baltistan,Electronics,132677.28,484
+632,2023,9,September,Autumn,North,Gilgit-Baltistan,Clothing,104457.35,1804
+633,2023,9,September,Autumn,North,Gilgit-Baltistan,Furniture,84743.55,265
+634,2023,9,September,Autumn,North,Gilgit-Baltistan,Food & Beverages,108828.32,4068
+635,2023,9,September,Autumn,North,Gilgit-Baltistan,Sports,77624.66,766
+636,2023,9,September,Autumn,North,Gilgit-Baltistan,Toys,72753.35,1461
+637,2023,9,September,Autumn,North,Gilgit-Baltistan,Books,53211.14,1555
+638,2023,9,September,Autumn,South,Sindh,Electronics,117232.46,460
+639,2023,9,September,Autumn,South,Sindh,Clothing,95455.5,1557
+640,2023,9,September,Autumn,South,Sindh,Furniture,81768.43,252
+641,2023,9,September,Autumn,South,Sindh,Food & Beverages,79984.38,2939
+642,2023,9,September,Autumn,South,Sindh,Sports,74862.69,716
+643,2023,9,September,Autumn,South,Sindh,Toys,66908.43,1380
+644,2023,9,September,Autumn,South,Sindh,Books,56274.64,1814
+645,2023,9,September,Autumn,South,Balochistan,Electronics,119131.08,484
+646,2023,9,September,Autumn,South,Balochistan,Clothing,89528.43,1389
+647,2023,9,September,Autumn,South,Balochistan,Furniture,85796.85,267
+648,2023,9,September,Autumn,South,Balochistan,Food & Beverages,88979.34,3626
+649,2023,9,September,Autumn,South,Balochistan,Sports,80397.33,773
+650,2023,9,September,Autumn,South,Balochistan,Toys,60380.34,1278
+651,2023,9,September,Autumn,South,Balochistan,Books,54872.8,1702
+652,2023,9,September,Autumn,East,AJK,Electronics,112725.36,472
+653,2023,9,September,Autumn,East,AJK,Clothing,86645.65,1393
+654,2023,9,September,Autumn,East,AJK,Furniture,64256.79,189
+655,2023,9,September,Autumn,East,AJK,Food & Beverages,72121.18,2805
+656,2023,9,September,Autumn,East,AJK,Sports,52563.15,495
+657,2023,9,September,Autumn,East,AJK,Toys,58189.61,1160
+658,2023,9,September,Autumn,East,AJK,Books,37673.2,1048
+659,2023,9,September,Autumn,East,Punjab,Electronics,89585.14,383
+660,2023,9,September,Autumn,East,Punjab,Clothing,72258.49,1218
+661,2023,9,September,Autumn,East,Punjab,Furniture,67748.99,218
+662,2023,9,September,Autumn,East,Punjab,Food & Beverages,64806.04,2507
+663,2023,9,September,Autumn,East,Punjab,Sports,62784.94,581
+664,2023,9,September,Autumn,East,Punjab,Toys,49402.72,921
+665,2023,9,September,Autumn,East,Punjab,Books,45119.52,1426
+666,2023,9,September,Autumn,West,Balochistan,Electronics,99655.44,371
+667,2023,9,September,Autumn,West,Balochistan,Clothing,71595.8,1125
+668,2023,9,September,Autumn,West,Balochistan,Furniture,57615.17,163
+669,2023,9,September,Autumn,West,Balochistan,Food & Beverages,65760.4,2517
+670,2023,9,September,Autumn,West,Balochistan,Sports,55533.31,549
+671,2023,9,September,Autumn,West,Balochistan,Toys,46065.27,886
+672,2023,9,September,Autumn,West,Balochistan,Books,39857.58,1188
+673,2023,9,September,Autumn,West,KPK,Electronics,100368.7,390
+674,2023,9,September,Autumn,West,KPK,Clothing,82746.79,1452
+675,2023,9,September,Autumn,West,KPK,Furniture,54090.94,155
+676,2023,9,September,Autumn,West,KPK,Food & Beverages,64509.89,2594
+677,2023,9,September,Autumn,West,KPK,Sports,58909.02,626
+678,2023,9,September,Autumn,West,KPK,Toys,49721.23,922
+679,2023,9,September,Autumn,West,KPK,Books,33744.04,1040
+680,2023,9,September,Autumn,Central,Punjab,Electronics,126794.8,512
+681,2023,9,September,Autumn,Central,Punjab,Clothing,80326.86,1374
+682,2023,9,September,Autumn,Central,Punjab,Furniture,75605.93,217
+683,2023,9,September,Autumn,Central,Punjab,Food & Beverages,90198.97,3444
+684,2023,9,September,Autumn,Central,Punjab,Sports,72454.83,673
+685,2023,9,September,Autumn,Central,Punjab,Toys,55930.78,1218
+686,2023,9,September,Autumn,Central,Punjab,Books,41797.48,1241
+687,2023,9,September,Autumn,Central,Sindh,Electronics,108855.81,394
+688,2023,9,September,Autumn,Central,Sindh,Clothing,78977.11,1264
+689,2023,9,September,Autumn,Central,Sindh,Furniture,62978.17,207
+690,2023,9,September,Autumn,Central,Sindh,Food & Beverages,80462.81,2914
+691,2023,9,September,Autumn,Central,Sindh,Sports,72949.41,778
+692,2023,9,September,Autumn,Central,Sindh,Toys,59564.33,1260
+693,2023,9,September,Autumn,Central,Sindh,Books,40642.36,1167
+694,2023,10,October,Autumn,North,Punjab,Electronics,188576.13,783
+695,2023,10,October,Autumn,North,Punjab,Clothing,122404.04,2038
+696,2023,10,October,Autumn,North,Punjab,Furniture,101372.4,274
+697,2023,10,October,Autumn,North,Punjab,Food & Beverages,109954.93,4183
+698,2023,10,October,Autumn,North,Punjab,Sports,107011.54,1080
+699,2023,10,October,Autumn,North,Punjab,Toys,91649.02,1843
+700,2023,10,October,Autumn,North,Punjab,Books,60633.56,1741
+701,2023,10,October,Autumn,North,KPK,Electronics,161363.26,587
+702,2023,10,October,Autumn,North,KPK,Clothing,133978.1,2269
+703,2023,10,October,Autumn,North,KPK,Furniture,101635.33,281
+704,2023,10,October,Autumn,North,KPK,Food & Beverages,141135.11,5754
+705,2023,10,October,Autumn,North,KPK,Sports,83133.45,833
+706,2023,10,October,Autumn,North,KPK,Toys,79157.49,1470
+707,2023,10,October,Autumn,North,KPK,Books,67182.89,2061
+708,2023,10,October,Autumn,North,Gilgit-Baltistan,Electronics,158244.25,622
+709,2023,10,October,Autumn,North,Gilgit-Baltistan,Clothing,144049.47,2113
+710,2023,10,October,Autumn,North,Gilgit-Baltistan,Furniture,117621.13,322
+711,2023,10,October,Autumn,North,Gilgit-Baltistan,Food & Beverages,126823.8,5080
+712,2023,10,October,Autumn,North,Gilgit-Baltistan,Sports,111485.61,1126
+713,2023,10,October,Autumn,North,Gilgit-Baltistan,Toys,82980.28,1649
+714,2023,10,October,Autumn,North,Gilgit-Baltistan,Books,71433.73,2349
+715,2023,10,October,Autumn,South,Sindh,Electronics,134469.01,485
+716,2023,10,October,Autumn,South,Sindh,Clothing,126214.35,1956
+717,2023,10,October,Autumn,South,Sindh,Furniture,93208.15,286
+718,2023,10,October,Autumn,South,Sindh,Food & Beverages,115152.84,4822
+719,2023,10,October,Autumn,South,Sindh,Sports,78145.89,710
+720,2023,10,October,Autumn,South,Sindh,Toys,73602.18,1564
+721,2023,10,October,Autumn,South,Sindh,Books,52418.75,1660
+722,2023,10,October,Autumn,South,Balochistan,Electronics,143658.97,597
+723,2023,10,October,Autumn,South,Balochistan,Clothing,120750.73,2052
+724,2023,10,October,Autumn,South,Balochistan,Furniture,75701.2,239
+725,2023,10,October,Autumn,South,Balochistan,Food & Beverages,105128.12,4031
+726,2023,10,October,Autumn,South,Balochistan,Sports,71019.31,667
+727,2023,10,October,Autumn,South,Balochistan,Toys,62622.71,1361
+728,2023,10,October,Autumn,South,Balochistan,Books,58348.04,1921
+729,2023,10,October,Autumn,East,AJK,Electronics,120333.61,457
+730,2023,10,October,Autumn,East,AJK,Clothing,102261.83,1535
+731,2023,10,October,Autumn,East,AJK,Furniture,68221.54,216
+732,2023,10,October,Autumn,East,AJK,Food & Beverages,96680.5,3737
+733,2023,10,October,Autumn,East,AJK,Sports,59735.9,581
+734,2023,10,October,Autumn,East,AJK,Toys,66340.65,1391
+735,2023,10,October,Autumn,East,AJK,Books,53145.95,1558
+736,2023,10,October,Autumn,East,Punjab,Electronics,135683.51,542
+737,2023,10,October,Autumn,East,Punjab,Clothing,94969.39,1648
+738,2023,10,October,Autumn,East,Punjab,Furniture,71692.19,228
+739,2023,10,October,Autumn,East,Punjab,Food & Beverages,93055.0,3408
+740,2023,10,October,Autumn,East,Punjab,Sports,69389.15,738
+741,2023,10,October,Autumn,East,Punjab,Toys,60210.35,1161
+742,2023,10,October,Autumn,East,Punjab,Books,41533.46,1286
+743,2023,10,October,Autumn,West,Balochistan,Electronics,99469.79,406
+744,2023,10,October,Autumn,West,Balochistan,Clothing,82607.49,1371
+745,2023,10,October,Autumn,West,Balochistan,Furniture,60538.21,164
+746,2023,10,October,Autumn,West,Balochistan,Food & Beverages,86036.7,3339
+747,2023,10,October,Autumn,West,Balochistan,Sports,68782.8,656
+748,2023,10,October,Autumn,West,Balochistan,Toys,60403.63,1316
+749,2023,10,October,Autumn,West,Balochistan,Books,36854.92,1136
+750,2023,10,October,Autumn,West,KPK,Electronics,101269.7,429
+751,2023,10,October,Autumn,West,KPK,Clothing,89026.98,1553
+752,2023,10,October,Autumn,West,KPK,Furniture,56569.95,173
+753,2023,10,October,Autumn,West,KPK,Food & Beverages,83975.44,3046
+754,2023,10,October,Autumn,West,KPK,Sports,52070.97,549
+755,2023,10,October,Autumn,West,KPK,Toys,50682.64,989
+756,2023,10,October,Autumn,West,KPK,Books,43092.12,1319
+757,2023,10,October,Autumn,Central,Punjab,Electronics,139090.86,606
+758,2023,10,October,Autumn,Central,Punjab,Clothing,101545.38,1710
+759,2023,10,October,Autumn,Central,Punjab,Furniture,80956.38,244
+760,2023,10,October,Autumn,Central,Punjab,Food & Beverages,93838.91,3865
+761,2023,10,October,Autumn,Central,Punjab,Sports,69181.29,638
+762,2023,10,October,Autumn,Central,Punjab,Toys,70666.36,1413
+763,2023,10,October,Autumn,Central,Punjab,Books,51009.88,1549
+764,2023,10,October,Autumn,Central,Sindh,Electronics,122566.36,466
+765,2023,10,October,Autumn,Central,Sindh,Clothing,103897.93,1827
+766,2023,10,October,Autumn,Central,Sindh,Furniture,74105.31,240
+767,2023,10,October,Autumn,Central,Sindh,Food & Beverages,96544.45,3570
+768,2023,10,October,Autumn,Central,Sindh,Sports,82717.42,819
+769,2023,10,October,Autumn,Central,Sindh,Toys,73893.84,1461
+770,2023,10,October,Autumn,Central,Sindh,Books,46270.61,1438
+771,2023,11,November,Autumn,North,Punjab,Electronics,215212.99,829
+772,2023,11,November,Autumn,North,Punjab,Clothing,148859.5,2174
+773,2023,11,November,Autumn,North,Punjab,Furniture,118480.21,383
+774,2023,11,November,Autumn,North,Punjab,Food & Beverages,158073.43,6590
+775,2023,11,November,Autumn,North,Punjab,Sports,124665.81,1280
+776,2023,11,November,Autumn,North,Punjab,Toys,106090.62,2125
+777,2023,11,November,Autumn,North,Punjab,Books,69139.88,1950
+778,2023,11,November,Autumn,North,KPK,Electronics,173874.3,735
+779,2023,11,November,Autumn,North,KPK,Clothing,133830.09,2164
+780,2023,11,November,Autumn,North,KPK,Furniture,112398.78,357
+781,2023,11,November,Autumn,North,KPK,Food & Beverages,145215.65,5938
+782,2023,11,November,Autumn,North,KPK,Sports,96783.04,930
+783,2023,11,November,Autumn,North,KPK,Toys,112113.16,2340
+784,2023,11,November,Autumn,North,KPK,Books,78601.28,2484
+785,2023,11,November,Autumn,North,Gilgit-Baltistan,Electronics,213915.35,782
+786,2023,11,November,Autumn,North,Gilgit-Baltistan,Clothing,178107.37,2930
+787,2023,11,November,Autumn,North,Gilgit-Baltistan,Furniture,115244.1,358
+788,2023,11,November,Autumn,North,Gilgit-Baltistan,Food & Beverages,136329.68,5865
+789,2023,11,November,Autumn,North,Gilgit-Baltistan,Sports,119790.72,1231
+790,2023,11,November,Autumn,North,Gilgit-Baltistan,Toys,88197.42,1928
+791,2023,11,November,Autumn,North,Gilgit-Baltistan,Books,76423.27,2481
+792,2023,11,November,Autumn,South,Sindh,Electronics,142992.94,528
+793,2023,11,November,Autumn,South,Sindh,Clothing,118259.41,1765
+794,2023,11,November,Autumn,South,Sindh,Furniture,93733.02,292
+795,2023,11,November,Autumn,South,Sindh,Food & Beverages,115410.64,5023
+796,2023,11,November,Autumn,South,Sindh,Sports,104577.67,1118
+797,2023,11,November,Autumn,South,Sindh,Toys,76327.48,1567
+798,2023,11,November,Autumn,South,Sindh,Books,67006.66,1859
+799,2023,11,November,Autumn,South,Balochistan,Electronics,155239.82,625
+800,2023,11,November,Autumn,South,Balochistan,Clothing,132101.9,1973
+801,2023,11,November,Autumn,South,Balochistan,Furniture,112115.73,313
+802,2023,11,November,Autumn,South,Balochistan,Food & Beverages,126762.0,5294
+803,2023,11,November,Autumn,South,Balochistan,Sports,96449.15,1030
+804,2023,11,November,Autumn,South,Balochistan,Toys,84074.55,1790
+805,2023,11,November,Autumn,South,Balochistan,Books,56661.8,1545
+806,2023,11,November,Autumn,East,AJK,Electronics,140728.88,571
+807,2023,11,November,Autumn,East,AJK,Clothing,112896.61,1902
+808,2023,11,November,Autumn,East,AJK,Furniture,78973.06,243
+809,2023,11,November,Autumn,East,AJK,Food & Beverages,98941.73,4058
+810,2023,11,November,Autumn,East,AJK,Sports,71672.96,782
+811,2023,11,November,Autumn,East,AJK,Toys,67154.63,1424
+812,2023,11,November,Autumn,East,AJK,Books,56996.85,1640
+813,2023,11,November,Autumn,East,Punjab,Electronics,117705.41,429
+814,2023,11,November,Autumn,East,Punjab,Clothing,106043.22,1691
+815,2023,11,November,Autumn,East,Punjab,Furniture,73807.76,226
+816,2023,11,November,Autumn,East,Punjab,Food & Beverages,93433.7,3900
+817,2023,11,November,Autumn,East,Punjab,Sports,81874.88,877
+818,2023,11,November,Autumn,East,Punjab,Toys,77126.33,1428
+819,2023,11,November,Autumn,East,Punjab,Books,51902.75,1576
+820,2023,11,November,Autumn,West,Balochistan,Electronics,113488.17,450
+821,2023,11,November,Autumn,West,Balochistan,Clothing,89303.18,1356
+822,2023,11,November,Autumn,West,Balochistan,Furniture,63291.13,181
+823,2023,11,November,Autumn,West,Balochistan,Food & Beverages,84941.56,3476
+824,2023,11,November,Autumn,West,Balochistan,Sports,62864.71,674
+825,2023,11,November,Autumn,West,Balochistan,Toys,53874.59,1040
+826,2023,11,November,Autumn,West,Balochistan,Books,49118.69,1418
+827,2023,11,November,Autumn,West,KPK,Electronics,129472.37,517
+828,2023,11,November,Autumn,West,KPK,Clothing,96424.08,1542
+829,2023,11,November,Autumn,West,KPK,Furniture,67864.47,184
+830,2023,11,November,Autumn,West,KPK,Food & Beverages,99754.15,3994
+831,2023,11,November,Autumn,West,KPK,Sports,77520.41,731
+832,2023,11,November,Autumn,West,KPK,Toys,57352.11,1043
+833,2023,11,November,Autumn,West,KPK,Books,47926.48,1547
+834,2023,11,November,Autumn,Central,Punjab,Electronics,156941.7,624
+835,2023,11,November,Autumn,Central,Punjab,Clothing,121320.87,2075
+836,2023,11,November,Autumn,Central,Punjab,Furniture,88135.05,284
+837,2023,11,November,Autumn,Central,Punjab,Food & Beverages,117507.77,4948
+838,2023,11,November,Autumn,Central,Punjab,Sports,81581.4,799
+839,2023,11,November,Autumn,Central,Punjab,Toys,76581.34,1438
+840,2023,11,November,Autumn,Central,Punjab,Books,60958.01,1672
+841,2023,11,November,Autumn,Central,Sindh,Electronics,150191.5,632
+842,2023,11,November,Autumn,Central,Sindh,Clothing,112069.94,1968
+843,2023,11,November,Autumn,Central,Sindh,Furniture,94870.76,262
+844,2023,11,November,Autumn,Central,Sindh,Food & Beverages,125677.73,4920
+845,2023,11,November,Autumn,Central,Sindh,Sports,92519.88,895
+846,2023,11,November,Autumn,Central,Sindh,Toys,84876.34,1784
+847,2023,11,November,Autumn,Central,Sindh,Books,54583.04,1640
+848,2023,12,December,Winter,North,Punjab,Electronics,218405.1,794
+849,2023,12,December,Winter,North,Punjab,Clothing,155694.9,2407
+850,2023,12,December,Winter,North,Punjab,Furniture,130007.83,386
+851,2023,12,December,Winter,North,Punjab,Food & Beverages,165265.61,6631
+852,2023,12,December,Winter,North,Punjab,Sports,117372.72,1200
+853,2023,12,December,Winter,North,Punjab,Toys,98143.57,2155
+854,2023,12,December,Winter,North,Punjab,Books,93632.08,2696
+855,2023,12,December,Winter,North,KPK,Electronics,207679.19,885
+856,2023,12,December,Winter,North,KPK,Clothing,176415.12,2940
+857,2023,12,December,Winter,North,KPK,Furniture,123169.37,392
+858,2023,12,December,Winter,North,KPK,Food & Beverages,153834.86,6367
+859,2023,12,December,Winter,North,KPK,Sports,141577.65,1439
+860,2023,12,December,Winter,North,KPK,Toys,118921.69,2485
+861,2023,12,December,Winter,North,KPK,Books,92288.25,2506
+862,2023,12,December,Winter,North,Gilgit-Baltistan,Electronics,216735.15,947
+863,2023,12,December,Winter,North,Gilgit-Baltistan,Clothing,189548.7,3200
+864,2023,12,December,Winter,North,Gilgit-Baltistan,Furniture,134091.96,420
+865,2023,12,December,Winter,North,Gilgit-Baltistan,Food & Beverages,164173.13,6134
+866,2023,12,December,Winter,North,Gilgit-Baltistan,Sports,128550.45,1316
+867,2023,12,December,Winter,North,Gilgit-Baltistan,Toys,120376.64,2237
+868,2023,12,December,Winter,North,Gilgit-Baltistan,Books,92096.49,2504
+869,2023,12,December,Winter,South,Sindh,Electronics,209648.49,773
+870,2023,12,December,Winter,South,Sindh,Clothing,126503.91,1948
+871,2023,12,December,Winter,South,Sindh,Furniture,99285.21,309
+872,2023,12,December,Winter,South,Sindh,Food & Beverages,131876.3,5565
+873,2023,12,December,Winter,South,Sindh,Sports,117931.09,1267
+874,2023,12,December,Winter,South,Sindh,Toys,98937.41,1805
+875,2023,12,December,Winter,South,Sindh,Books,65894.12,1861
+876,2023,12,December,Winter,South,Balochistan,Electronics,175100.75,723
+877,2023,12,December,Winter,South,Balochistan,Clothing,148969.96,2294
+878,2023,12,December,Winter,South,Balochistan,Furniture,100008.74,324
+879,2023,12,December,Winter,South,Balochistan,Food & Beverages,129109.65,5013
+880,2023,12,December,Winter,South,Balochistan,Sports,113264.83,1182
+881,2023,12,December,Winter,South,Balochistan,Toys,96372.53,2001
+882,2023,12,December,Winter,South,Balochistan,Books,76361.06,2149
+883,2023,12,December,Winter,East,AJK,Electronics,139702.11,565
+884,2023,12,December,Winter,East,AJK,Clothing,110975.98,1943
+885,2023,12,December,Winter,East,AJK,Furniture,85211.88,244
+886,2023,12,December,Winter,East,AJK,Food & Beverages,101142.89,4211
+887,2023,12,December,Winter,East,AJK,Sports,80977.22,785
+888,2023,12,December,Winter,East,AJK,Toys,85436.32,1809
+889,2023,12,December,Winter,East,AJK,Books,56369.61,1563
+890,2023,12,December,Winter,East,Punjab,Electronics,159211.59,621
+891,2023,12,December,Winter,East,Punjab,Clothing,138384.07,2355
+892,2023,12,December,Winter,East,Punjab,Furniture,103092.63,328
+893,2023,12,December,Winter,East,Punjab,Food & Beverages,103909.62,3979
+894,2023,12,December,Winter,East,Punjab,Sports,91184.29,883
+895,2023,12,December,Winter,East,Punjab,Toys,74293.09,1413
+896,2023,12,December,Winter,East,Punjab,Books,60100.41,1695
+897,2023,12,December,Winter,West,Balochistan,Electronics,135955.46,590
+898,2023,12,December,Winter,West,Balochistan,Clothing,113847.7,1689
+899,2023,12,December,Winter,West,Balochistan,Furniture,83438.46,254
+900,2023,12,December,Winter,West,Balochistan,Food & Beverages,90945.0,3761
+901,2023,12,December,Winter,West,Balochistan,Sports,76869.24,789
+902,2023,12,December,Winter,West,Balochistan,Toys,58178.22,1143
+903,2023,12,December,Winter,West,Balochistan,Books,57265.55,1580
+904,2023,12,December,Winter,West,KPK,Electronics,145317.29,523
+905,2023,12,December,Winter,West,KPK,Clothing,109144.17,1896
+906,2023,12,December,Winter,West,KPK,Furniture,78387.91,255
+907,2023,12,December,Winter,West,KPK,Food & Beverages,109748.52,4370
+908,2023,12,December,Winter,West,KPK,Sports,69293.17,757
+909,2023,12,December,Winter,West,KPK,Toys,63594.74,1309
+910,2023,12,December,Winter,West,KPK,Books,60339.21,1661
+911,2023,12,December,Winter,Central,Punjab,Electronics,171736.32,691
+912,2023,12,December,Winter,Central,Punjab,Clothing,143396.1,2494
+913,2023,12,December,Winter,Central,Punjab,Furniture,113296.07,317
+914,2023,12,December,Winter,Central,Punjab,Food & Beverages,137327.77,5136
+915,2023,12,December,Winter,Central,Punjab,Sports,107184.77,1178
+916,2023,12,December,Winter,Central,Punjab,Toys,81404.26,1626
+917,2023,12,December,Winter,Central,Punjab,Books,76002.03,2490
+918,2023,12,December,Winter,Central,Sindh,Electronics,189472.4,814
+919,2023,12,December,Winter,Central,Sindh,Clothing,114613.65,1858
+920,2023,12,December,Winter,Central,Sindh,Furniture,88924.77,292
+921,2023,12,December,Winter,Central,Sindh,Food & Beverages,115237.4,5060
+922,2023,12,December,Winter,Central,Sindh,Sports,96436.66,963
+923,2023,12,December,Winter,Central,Sindh,Toys,95051.72,2034
+924,2023,12,December,Winter,Central,Sindh,Books,66555.3,1873
+925,2024,1,January,Winter,North,Punjab,Electronics,103403.9,385
+926,2024,1,January,Winter,North,Punjab,Clothing,92446.32,1407
+927,2024,1,January,Winter,North,Punjab,Furniture,63591.35,199
+928,2024,1,January,Winter,North,Punjab,Food & Beverages,93284.36,3781
+929,2024,1,January,Winter,North,Punjab,Sports,71417.35,667
+930,2024,1,January,Winter,North,Punjab,Toys,64750.37,1397
+931,2024,1,January,Winter,North,Punjab,Books,51390.94,1546
+932,2024,1,January,Winter,North,KPK,Electronics,102494.5,423
+933,2024,1,January,Winter,North,KPK,Clothing,84748.66,1258
+934,2024,1,January,Winter,North,KPK,Furniture,66485.05,189
+935,2024,1,January,Winter,North,KPK,Food & Beverages,79642.61,3017
+936,2024,1,January,Winter,North,KPK,Sports,71347.22,778
+937,2024,1,January,Winter,North,KPK,Toys,55024.15,1149
+938,2024,1,January,Winter,North,KPK,Books,39940.56,1235
+939,2024,1,January,Winter,North,Gilgit-Baltistan,Electronics,123766.18,451
+940,2024,1,January,Winter,North,Gilgit-Baltistan,Clothing,82879.75,1274
+941,2024,1,January,Winter,North,Gilgit-Baltistan,Furniture,68208.07,204
+942,2024,1,January,Winter,North,Gilgit-Baltistan,Food & Beverages,95970.35,3995
+943,2024,1,January,Winter,North,Gilgit-Baltistan,Sports,62540.35,577
+944,2024,1,January,Winter,North,Gilgit-Baltistan,Toys,65803.09,1262
+945,2024,1,January,Winter,North,Gilgit-Baltistan,Books,48409.34,1370
+946,2024,1,January,Winter,South,Sindh,Electronics,88116.99,328
+947,2024,1,January,Winter,South,Sindh,Clothing,85086.18,1390
+948,2024,1,January,Winter,South,Sindh,Furniture,57900.37,175
+949,2024,1,January,Winter,South,Sindh,Food & Beverages,71964.64,2900
+950,2024,1,January,Winter,South,Sindh,Sports,58861.71,555
+951,2024,1,January,Winter,South,Sindh,Toys,45749.86,961
+952,2024,1,January,Winter,South,Sindh,Books,44032.84,1210
+953,2024,1,January,Winter,South,Balochistan,Electronics,97418.41,405
+954,2024,1,January,Winter,South,Balochistan,Clothing,69175.72,1121
+955,2024,1,January,Winter,South,Balochistan,Furniture,51590.53,156
+956,2024,1,January,Winter,South,Balochistan,Food & Beverages,72719.51,2951
+957,2024,1,January,Winter,South,Balochistan,Sports,50207.02,484
+958,2024,1,January,Winter,South,Balochistan,Toys,49802.07,919
+959,2024,1,January,Winter,South,Balochistan,Books,36100.17,1101
+960,2024,1,January,Winter,East,AJK,Electronics,71059.88,284
+961,2024,1,January,Winter,East,AJK,Clothing,70800.97,1122
+962,2024,1,January,Winter,East,AJK,Furniture,48793.15,145
+963,2024,1,January,Winter,East,AJK,Food & Beverages,51518.87,2045
+964,2024,1,January,Winter,East,AJK,Sports,50126.22,523
+965,2024,1,January,Winter,East,AJK,Toys,39235.78,834
+966,2024,1,January,Winter,East,AJK,Books,34789.22,1060
+967,2024,1,January,Winter,East,Punjab,Electronics,69950.54,271
+968,2024,1,January,Winter,East,Punjab,Clothing,56319.49,990
+969,2024,1,January,Winter,East,Punjab,Furniture,54936.22,150
+970,2024,1,January,Winter,East,Punjab,Food & Beverages,67129.88,2433
+971,2024,1,January,Winter,East,Punjab,Sports,44645.1,470
+972,2024,1,January,Winter,East,Punjab,Toys,43729.81,958
+973,2024,1,January,Winter,East,Punjab,Books,33817.96,998
+974,2024,1,January,Winter,West,Balochistan,Electronics,82645.7,322
+975,2024,1,January,Winter,West,Balochistan,Clothing,63987.04,1107
+976,2024,1,January,Winter,West,Balochistan,Furniture,41588.37,129
+977,2024,1,January,Winter,West,Balochistan,Food & Beverages,55362.79,2231
+978,2024,1,January,Winter,West,Balochistan,Sports,42679.26,413
+979,2024,1,January,Winter,West,Balochistan,Toys,32527.52,655
+980,2024,1,January,Winter,West,Balochistan,Books,29049.2,911
+981,2024,1,January,Winter,West,KPK,Electronics,66010.11,237
+982,2024,1,January,Winter,West,KPK,Clothing,49352.87,757
+983,2024,1,January,Winter,West,KPK,Furniture,45448.56,137
+984,2024,1,January,Winter,West,KPK,Food & Beverages,53305.83,2270
+985,2024,1,January,Winter,West,KPK,Sports,37709.55,365
+986,2024,1,January,Winter,West,KPK,Toys,33577.02,730
+987,2024,1,January,Winter,West,KPK,Books,30744.21,850
+988,2024,1,January,Winter,Central,Punjab,Electronics,98355.91,387
+989,2024,1,January,Winter,Central,Punjab,Clothing,77746.75,1339
+990,2024,1,January,Winter,Central,Punjab,Furniture,46153.46,130
+991,2024,1,January,Winter,Central,Punjab,Food & Beverages,58097.75,2107
+992,2024,1,January,Winter,Central,Punjab,Sports,52496.11,546
+993,2024,1,January,Winter,Central,Punjab,Toys,38907.13,815
+994,2024,1,January,Winter,Central,Punjab,Books,34944.47,992
+995,2024,1,January,Winter,Central,Sindh,Electronics,82366.27,353
+996,2024,1,January,Winter,Central,Sindh,Clothing,62419.19,999
+997,2024,1,January,Winter,Central,Sindh,Furniture,50586.07,161
+998,2024,1,January,Winter,Central,Sindh,Food & Beverages,70584.05,2721
+999,2024,1,January,Winter,Central,Sindh,Sports,52498.14,543
+1000,2024,1,January,Winter,Central,Sindh,Toys,42578.98,817
+1001,2024,1,January,Winter,Central,Sindh,Books,32147.21,995
+1002,2024,2,February,Winter,North,Punjab,Electronics,100061.36,384
+1003,2024,2,February,Winter,North,Punjab,Clothing,75853.58,1322
+1004,2024,2,February,Winter,North,Punjab,Furniture,72983.66,236
+1005,2024,2,February,Winter,North,Punjab,Food & Beverages,83106.86,3275
+1006,2024,2,February,Winter,North,Punjab,Sports,61798.7,676
+1007,2024,2,February,Winter,North,Punjab,Toys,61833.19,1279
+1008,2024,2,February,Winter,North,Punjab,Books,47425.18,1371
+1009,2024,2,February,Winter,North,KPK,Electronics,106458.79,395
+1010,2024,2,February,Winter,North,KPK,Clothing,84122.27,1414
+1011,2024,2,February,Winter,North,KPK,Furniture,64999.49,208
+1012,2024,2,February,Winter,North,KPK,Food & Beverages,75292.89,3136
+1013,2024,2,February,Winter,North,KPK,Sports,67556.43,731
+1014,2024,2,February,Winter,North,KPK,Toys,55621.88,1216
+1015,2024,2,February,Winter,North,KPK,Books,44430.69,1235
+1016,2024,2,February,Winter,North,Gilgit-Baltistan,Electronics,100776.04,379
+1017,2024,2,February,Winter,North,Gilgit-Baltistan,Clothing,91204.87,1582
+1018,2024,2,February,Winter,North,Gilgit-Baltistan,Furniture,72343.25,199
+1019,2024,2,February,Winter,North,Gilgit-Baltistan,Food & Beverages,85475.42,3207
+1020,2024,2,February,Winter,North,Gilgit-Baltistan,Sports,57581.72,595
+1021,2024,2,February,Winter,North,Gilgit-Baltistan,Toys,56285.86,1209
+1022,2024,2,February,Winter,North,Gilgit-Baltistan,Books,39593.69,1249
+1023,2024,2,February,Winter,South,Sindh,Electronics,98617.74,399
+1024,2024,2,February,Winter,South,Sindh,Clothing,73463.05,1262
+1025,2024,2,February,Winter,South,Sindh,Furniture,52661.86,172
+1026,2024,2,February,Winter,South,Sindh,Food & Beverages,57907.7,2518
+1027,2024,2,February,Winter,South,Sindh,Sports,59618.31,550
+1028,2024,2,February,Winter,South,Sindh,Toys,53124.07,1058
+1029,2024,2,February,Winter,South,Sindh,Books,34105.87,1044
+1030,2024,2,February,Winter,South,Balochistan,Electronics,84209.1,364
+1031,2024,2,February,Winter,South,Balochistan,Clothing,75074.91,1267
+1032,2024,2,February,Winter,South,Balochistan,Furniture,53455.17,161
+1033,2024,2,February,Winter,South,Balochistan,Food & Beverages,64899.03,2472
+1034,2024,2,February,Winter,South,Balochistan,Sports,52561.32,525
+1035,2024,2,February,Winter,South,Balochistan,Toys,40636.71,890
+1036,2024,2,February,Winter,South,Balochistan,Books,36621.71,1173
+1037,2024,2,February,Winter,East,AJK,Electronics,84997.02,331
+1038,2024,2,February,Winter,East,AJK,Clothing,58918.35,954
+1039,2024,2,February,Winter,East,AJK,Furniture,41567.1,115
+1040,2024,2,February,Winter,East,AJK,Food & Beverages,51461.19,2237
+1041,2024,2,February,Winter,East,AJK,Sports,43857.14,431
+1042,2024,2,February,Winter,East,AJK,Toys,33858.35,654
+1043,2024,2,February,Winter,East,AJK,Books,29149.91,932
+1044,2024,2,February,Winter,East,Punjab,Electronics,75584.16,311
+1045,2024,2,February,Winter,East,Punjab,Clothing,63833.86,971
+1046,2024,2,February,Winter,East,Punjab,Furniture,49736.22,163
+1047,2024,2,February,Winter,East,Punjab,Food & Beverages,57796.66,2307
+1048,2024,2,February,Winter,East,Punjab,Sports,38576.14,408
+1049,2024,2,February,Winter,East,Punjab,Toys,34049.47,710
+1050,2024,2,February,Winter,East,Punjab,Books,30134.01,979
+1051,2024,2,February,Winter,West,Balochistan,Electronics,68049.48,279
+1052,2024,2,February,Winter,West,Balochistan,Clothing,46643.23,676
+1053,2024,2,February,Winter,West,Balochistan,Furniture,44513.65,145
+1054,2024,2,February,Winter,West,Balochistan,Food & Beverages,51766.9,2180
+1055,2024,2,February,Winter,West,Balochistan,Sports,37079.17,396
+1056,2024,2,February,Winter,West,Balochistan,Toys,30892.85,643
+1057,2024,2,February,Winter,West,Balochistan,Books,22921.72,688
+1058,2024,2,February,Winter,West,KPK,Electronics,64643.73,264
+1059,2024,2,February,Winter,West,KPK,Clothing,56449.42,924
+1060,2024,2,February,Winter,West,KPK,Furniture,40116.84,120
+1061,2024,2,February,Winter,West,KPK,Food & Beverages,41985.76,1696
+1062,2024,2,February,Winter,West,KPK,Sports,32503.39,326
+1063,2024,2,February,Winter,West,KPK,Toys,31329.39,686
+1064,2024,2,February,Winter,West,KPK,Books,22986.24,732
+1065,2024,2,February,Winter,Central,Punjab,Electronics,88385.63,375
+1066,2024,2,February,Winter,Central,Punjab,Clothing,75461.03,1112
+1067,2024,2,February,Winter,Central,Punjab,Furniture,44296.27,123
+1068,2024,2,February,Winter,Central,Punjab,Food & Beverages,55906.9,2248
+1069,2024,2,February,Winter,Central,Punjab,Sports,52101.26,496
+1070,2024,2,February,Winter,Central,Punjab,Toys,40700.89,793
+1071,2024,2,February,Winter,Central,Punjab,Books,32652.76,992
+1072,2024,2,February,Winter,Central,Sindh,Electronics,96353.87,364
+1073,2024,2,February,Winter,Central,Sindh,Clothing,70910.28,1213
+1074,2024,2,February,Winter,Central,Sindh,Furniture,52724.48,169
+1075,2024,2,February,Winter,Central,Sindh,Food & Beverages,66397.15,2439
+1076,2024,2,February,Winter,Central,Sindh,Sports,45875.89,463
+1077,2024,2,February,Winter,Central,Sindh,Toys,36407.05,656
+1078,2024,2,February,Winter,Central,Sindh,Books,30287.55,908
+1079,2024,3,March,Spring,North,Punjab,Electronics,122325.58,517
+1080,2024,3,March,Spring,North,Punjab,Clothing,101812.54,1745
+1081,2024,3,March,Spring,North,Punjab,Furniture,65790.21,198
+1082,2024,3,March,Spring,North,Punjab,Food & Beverages,78960.3,2976
+1083,2024,3,March,Spring,North,Punjab,Sports,78529.97,846
+1084,2024,3,March,Spring,North,Punjab,Toys,61941.37,1126
+1085,2024,3,March,Spring,North,Punjab,Books,43545.44,1417
+1086,2024,3,March,Spring,North,KPK,Electronics,139750.23,566
+1087,2024,3,March,Spring,North,KPK,Clothing,85849.47,1491
+1088,2024,3,March,Spring,North,KPK,Furniture,70712.58,231
+1089,2024,3,March,Spring,North,KPK,Food & Beverages,93909.66,3945
+1090,2024,3,March,Spring,North,KPK,Sports,75232.89,737
+1091,2024,3,March,Spring,North,KPK,Toys,54480.27,1016
+1092,2024,3,March,Spring,North,KPK,Books,46033.31,1473
+1093,2024,3,March,Spring,North,Gilgit-Baltistan,Electronics,120650.02,520
+1094,2024,3,March,Spring,North,Gilgit-Baltistan,Clothing,94799.97,1594
+1095,2024,3,March,Spring,North,Gilgit-Baltistan,Furniture,66791.85,219
+1096,2024,3,March,Spring,North,Gilgit-Baltistan,Food & Beverages,97674.63,3907
+1097,2024,3,March,Spring,North,Gilgit-Baltistan,Sports,80783.24,735
+1098,2024,3,March,Spring,North,Gilgit-Baltistan,Toys,61222.29,1307
+1099,2024,3,March,Spring,North,Gilgit-Baltistan,Books,47532.72,1502
+1100,2024,3,March,Spring,South,Sindh,Electronics,120009.91,470
+1101,2024,3,March,Spring,South,Sindh,Clothing,91412.98,1325
+1102,2024,3,March,Spring,South,Sindh,Furniture,59051.4,194
+1103,2024,3,March,Spring,South,Sindh,Food & Beverages,77221.7,2999
+1104,2024,3,March,Spring,South,Sindh,Sports,67759.4,668
+1105,2024,3,March,Spring,South,Sindh,Toys,55646.37,1148
+1106,2024,3,March,Spring,South,Sindh,Books,36989.92,1136
+1107,2024,3,March,Spring,South,Balochistan,Electronics,115042.39,479
+1108,2024,3,March,Spring,South,Balochistan,Clothing,73887.17,1100
+1109,2024,3,March,Spring,South,Balochistan,Furniture,67383.56,207
+1110,2024,3,March,Spring,South,Balochistan,Food & Beverages,83007.67,3198
+1111,2024,3,March,Spring,South,Balochistan,Sports,52776.8,475
+1112,2024,3,March,Spring,South,Balochistan,Toys,49762.96,967
+1113,2024,3,March,Spring,South,Balochistan,Books,39322.48,1092
+1114,2024,3,March,Spring,East,AJK,Electronics,78297.2,309
+1115,2024,3,March,Spring,East,AJK,Clothing,70255.09,1103
+1116,2024,3,March,Spring,East,AJK,Furniture,44472.43,129
+1117,2024,3,March,Spring,East,AJK,Food & Beverages,55624.97,2268
+1118,2024,3,March,Spring,East,AJK,Sports,46381.23,453
+1119,2024,3,March,Spring,East,AJK,Toys,40502.34,791
+1120,2024,3,March,Spring,East,AJK,Books,30254.16,980
+1121,2024,3,March,Spring,East,Punjab,Electronics,96902.98,424
+1122,2024,3,March,Spring,East,Punjab,Clothing,70612.17,1055
+1123,2024,3,March,Spring,East,Punjab,Furniture,49985.14,139
+1124,2024,3,March,Spring,East,Punjab,Food & Beverages,59579.9,2379
+1125,2024,3,March,Spring,East,Punjab,Sports,42545.27,419
+1126,2024,3,March,Spring,East,Punjab,Toys,42177.49,840
+1127,2024,3,March,Spring,East,Punjab,Books,30173.52,860
+1128,2024,3,March,Spring,West,Balochistan,Electronics,70961.44,290
+1129,2024,3,March,Spring,West,Balochistan,Clothing,63169.04,949
+1130,2024,3,March,Spring,West,Balochistan,Furniture,40646.79,117
+1131,2024,3,March,Spring,West,Balochistan,Food & Beverages,63903.32,2470
+1132,2024,3,March,Spring,West,Balochistan,Sports,45089.23,478
+1133,2024,3,March,Spring,West,Balochistan,Toys,36436.32,704
+1134,2024,3,March,Spring,West,Balochistan,Books,33627.42,1081
+1135,2024,3,March,Spring,West,KPK,Electronics,87726.15,325
+1136,2024,3,March,Spring,West,KPK,Clothing,58134.5,1013
+1137,2024,3,March,Spring,West,KPK,Furniture,41944.57,121
+1138,2024,3,March,Spring,West,KPK,Food & Beverages,64169.45,2807
+1139,2024,3,March,Spring,West,KPK,Sports,40797.15,423
+1140,2024,3,March,Spring,West,KPK,Toys,38296.4,777
+1141,2024,3,March,Spring,West,KPK,Books,28346.18,829
+1142,2024,3,March,Spring,Central,Punjab,Electronics,105115.04,411
+1143,2024,3,March,Spring,Central,Punjab,Clothing,67903.98,1100
+1144,2024,3,March,Spring,Central,Punjab,Furniture,59193.68,179
+1145,2024,3,March,Spring,Central,Punjab,Food & Beverages,74237.77,2999
+1146,2024,3,March,Spring,Central,Punjab,Sports,61793.04,613
+1147,2024,3,March,Spring,Central,Punjab,Toys,51000.49,1007
+1148,2024,3,March,Spring,Central,Punjab,Books,35996.14,1121
+1149,2024,3,March,Spring,Central,Sindh,Electronics,105186.21,445
+1150,2024,3,March,Spring,Central,Sindh,Clothing,74706.62,1195
+1151,2024,3,March,Spring,Central,Sindh,Furniture,59904.05,170
+1152,2024,3,March,Spring,Central,Sindh,Food & Beverages,73750.96,3077
+1153,2024,3,March,Spring,Central,Sindh,Sports,59117.73,540
+1154,2024,3,March,Spring,Central,Sindh,Toys,55066.09,1096
+1155,2024,3,March,Spring,Central,Sindh,Books,37257.27,1119
+1156,2024,4,April,Spring,North,Punjab,Electronics,149323.2,620
+1157,2024,4,April,Spring,North,Punjab,Clothing,107468.96,1819
+1158,2024,4,April,Spring,North,Punjab,Furniture,76207.25,246
+1159,2024,4,April,Spring,North,Punjab,Food & Beverages,98316.62,4041
+1160,2024,4,April,Spring,North,Punjab,Sports,65784.66,693
+1161,2024,4,April,Spring,North,Punjab,Toys,69434.7,1348
+1162,2024,4,April,Spring,North,Punjab,Books,55379.06,1509
+1163,2024,4,April,Spring,North,KPK,Electronics,151837.93,628
+1164,2024,4,April,Spring,North,KPK,Clothing,102885.44,1729
+1165,2024,4,April,Spring,North,KPK,Furniture,90675.73,268
+1166,2024,4,April,Spring,North,KPK,Food & Beverages,82961.7,3158
+1167,2024,4,April,Spring,North,KPK,Sports,75380.66,756
+1168,2024,4,April,Spring,North,KPK,Toys,67901.51,1378
+1169,2024,4,April,Spring,North,KPK,Books,52177.23,1531
+1170,2024,4,April,Spring,North,Gilgit-Baltistan,Electronics,143433.77,583
+1171,2024,4,April,Spring,North,Gilgit-Baltistan,Clothing,106094.82,1644
+1172,2024,4,April,Spring,North,Gilgit-Baltistan,Furniture,68212.26,188
+1173,2024,4,April,Spring,North,Gilgit-Baltistan,Food & Beverages,94788.84,4141
+1174,2024,4,April,Spring,North,Gilgit-Baltistan,Sports,66485.44,723
+1175,2024,4,April,Spring,North,Gilgit-Baltistan,Toys,59172.92,1138
+1176,2024,4,April,Spring,North,Gilgit-Baltistan,Books,52329.25,1477
+1177,2024,4,April,Spring,South,Sindh,Electronics,111625.29,444
+1178,2024,4,April,Spring,South,Sindh,Clothing,88094.93,1464
+1179,2024,4,April,Spring,South,Sindh,Furniture,63662.7,183
+1180,2024,4,April,Spring,South,Sindh,Food & Beverages,89936.63,3320
+1181,2024,4,April,Spring,South,Sindh,Sports,70240.26,723
+1182,2024,4,April,Spring,South,Sindh,Toys,59081.25,1102
+1183,2024,4,April,Spring,South,Sindh,Books,51395.24,1462
+1184,2024,4,April,Spring,South,Balochistan,Electronics,101242.1,377
+1185,2024,4,April,Spring,South,Balochistan,Clothing,91371.61,1595
+1186,2024,4,April,Spring,South,Balochistan,Furniture,61904.55,182
+1187,2024,4,April,Spring,South,Balochistan,Food & Beverages,74491.01,3063
+1188,2024,4,April,Spring,South,Balochistan,Sports,62285.53,564
+1189,2024,4,April,Spring,South,Balochistan,Toys,58020.42,1090
+1190,2024,4,April,Spring,South,Balochistan,Books,46121.42,1352
+1191,2024,4,April,Spring,East,AJK,Electronics,97438.42,366
+1192,2024,4,April,Spring,East,AJK,Clothing,78999.24,1342
+1193,2024,4,April,Spring,East,AJK,Furniture,47851.8,132
+1194,2024,4,April,Spring,East,AJK,Food & Beverages,74832.49,2805
+1195,2024,4,April,Spring,East,AJK,Sports,49304.32,488
+1196,2024,4,April,Spring,East,AJK,Toys,42627.61,914
+1197,2024,4,April,Spring,East,AJK,Books,37025.31,1141
+1198,2024,4,April,Spring,East,Punjab,Electronics,94470.58,386
+1199,2024,4,April,Spring,East,Punjab,Clothing,75356.89,1169
+1200,2024,4,April,Spring,East,Punjab,Furniture,60789.34,186
+1201,2024,4,April,Spring,East,Punjab,Food & Beverages,73656.26,3067
+1202,2024,4,April,Spring,East,Punjab,Sports,48858.92,499
+1203,2024,4,April,Spring,East,Punjab,Toys,40182.03,744
+1204,2024,4,April,Spring,East,Punjab,Books,32510.36,937
+1205,2024,4,April,Spring,West,Balochistan,Electronics,73840.93,306
+1206,2024,4,April,Spring,West,Balochistan,Clothing,65491.99,1030
+1207,2024,4,April,Spring,West,Balochistan,Furniture,43640.99,127
+1208,2024,4,April,Spring,West,Balochistan,Food & Beverages,54198.65,2226
+1209,2024,4,April,Spring,West,Balochistan,Sports,48923.3,503
+1210,2024,4,April,Spring,West,Balochistan,Toys,46918.77,948
+1211,2024,4,April,Spring,West,Balochistan,Books,32538.57,905
+1212,2024,4,April,Spring,West,KPK,Electronics,77060.92,305
+1213,2024,4,April,Spring,West,KPK,Clothing,56537.92,879
+1214,2024,4,April,Spring,West,KPK,Furniture,41756.76,116
+1215,2024,4,April,Spring,West,KPK,Food & Beverages,65498.76,2862
+1216,2024,4,April,Spring,West,KPK,Sports,46315.44,462
+1217,2024,4,April,Spring,West,KPK,Toys,43060.69,846
+1218,2024,4,April,Spring,West,KPK,Books,35968.22,1076
+1219,2024,4,April,Spring,Central,Punjab,Electronics,89229.72,323
+1220,2024,4,April,Spring,Central,Punjab,Clothing,87990.67,1349
+1221,2024,4,April,Spring,Central,Punjab,Furniture,57066.3,172
+1222,2024,4,April,Spring,Central,Punjab,Food & Beverages,67354.61,2671
+1223,2024,4,April,Spring,Central,Punjab,Sports,62005.27,653
+1224,2024,4,April,Spring,Central,Punjab,Toys,51760.81,955
+1225,2024,4,April,Spring,Central,Punjab,Books,36077.89,1141
+1226,2024,4,April,Spring,Central,Sindh,Electronics,111892.45,435
+1227,2024,4,April,Spring,Central,Sindh,Clothing,89497.52,1300
+1228,2024,4,April,Spring,Central,Sindh,Furniture,65220.48,197
+1229,2024,4,April,Spring,Central,Sindh,Food & Beverages,85790.57,3158
+1230,2024,4,April,Spring,Central,Sindh,Sports,63523.43,667
+1231,2024,4,April,Spring,Central,Sindh,Toys,47904.95,1053
+1232,2024,4,April,Spring,Central,Sindh,Books,40184.72,1169
+1233,2024,5,May,Spring,North,Punjab,Electronics,153740.61,607
+1234,2024,5,May,Spring,North,Punjab,Clothing,128964.4,2177
+1235,2024,5,May,Spring,North,Punjab,Furniture,77592.1,247
+1236,2024,5,May,Spring,North,Punjab,Food & Beverages,105675.79,4100
+1237,2024,5,May,Spring,North,Punjab,Sports,84590.28,868
+1238,2024,5,May,Spring,North,Punjab,Toys,63165.57,1172
+1239,2024,5,May,Spring,North,Punjab,Books,51217.13,1446
+1240,2024,5,May,Spring,North,KPK,Electronics,121840.15,472
+1241,2024,5,May,Spring,North,KPK,Clothing,104943.44,1692
+1242,2024,5,May,Spring,North,KPK,Furniture,79783.37,249
+1243,2024,5,May,Spring,North,KPK,Food & Beverages,96452.93,3678
+1244,2024,5,May,Spring,North,KPK,Sports,88105.15,966
+1245,2024,5,May,Spring,North,KPK,Toys,73976.04,1359
+1246,2024,5,May,Spring,North,KPK,Books,63956.78,2028
+1247,2024,5,May,Spring,North,Gilgit-Baltistan,Electronics,158038.54,694
+1248,2024,5,May,Spring,North,Gilgit-Baltistan,Clothing,124688.04,1846
+1249,2024,5,May,Spring,North,Gilgit-Baltistan,Furniture,93491.54,266
+1250,2024,5,May,Spring,North,Gilgit-Baltistan,Food & Beverages,109489.56,4667
+1251,2024,5,May,Spring,North,Gilgit-Baltistan,Sports,85800.85,888
+1252,2024,5,May,Spring,North,Gilgit-Baltistan,Toys,69978.0,1421
+1253,2024,5,May,Spring,North,Gilgit-Baltistan,Books,52263.35,1541
+1254,2024,5,May,Spring,South,Sindh,Electronics,117088.98,480
+1255,2024,5,May,Spring,South,Sindh,Clothing,105878.13,1556
+1256,2024,5,May,Spring,South,Sindh,Furniture,71613.88,205
+1257,2024,5,May,Spring,South,Sindh,Food & Beverages,98524.08,3837
+1258,2024,5,May,Spring,South,Sindh,Sports,76413.33,737
+1259,2024,5,May,Spring,South,Sindh,Toys,50534.07,1066
+1260,2024,5,May,Spring,South,Sindh,Books,50837.71,1595
+1261,2024,5,May,Spring,South,Balochistan,Electronics,117319.13,484
+1262,2024,5,May,Spring,South,Balochistan,Clothing,90997.65,1328
+1263,2024,5,May,Spring,South,Balochistan,Furniture,72016.13,203
+1264,2024,5,May,Spring,South,Balochistan,Food & Beverages,85281.15,3214
+1265,2024,5,May,Spring,South,Balochistan,Sports,62645.37,667
+1266,2024,5,May,Spring,South,Balochistan,Toys,56508.8,1147
+1267,2024,5,May,Spring,South,Balochistan,Books,48462.92,1449
+1268,2024,5,May,Spring,East,AJK,Electronics,92643.45,384
+1269,2024,5,May,Spring,East,AJK,Clothing,67225.29,989
+1270,2024,5,May,Spring,East,AJK,Furniture,63286.94,188
+1271,2024,5,May,Spring,East,AJK,Food & Beverages,63244.69,2710
+1272,2024,5,May,Spring,East,AJK,Sports,54109.81,487
+1273,2024,5,May,Spring,East,AJK,Toys,55278.1,1039
+1274,2024,5,May,Spring,East,AJK,Books,41079.74,1141
+1275,2024,5,May,Spring,East,Punjab,Electronics,101573.92,378
+1276,2024,5,May,Spring,East,Punjab,Clothing,87854.62,1342
+1277,2024,5,May,Spring,East,Punjab,Furniture,61024.67,173
+1278,2024,5,May,Spring,East,Punjab,Food & Beverages,68539.51,2962
+1279,2024,5,May,Spring,East,Punjab,Sports,49553.14,485
+1280,2024,5,May,Spring,East,Punjab,Toys,45764.32,951
+1281,2024,5,May,Spring,East,Punjab,Books,35779.05,1106
+1282,2024,5,May,Spring,West,Balochistan,Electronics,91679.85,330
+1283,2024,5,May,Spring,West,Balochistan,Clothing,68639.06,1017
+1284,2024,5,May,Spring,West,Balochistan,Furniture,47581.72,147
+1285,2024,5,May,Spring,West,Balochistan,Food & Beverages,54032.53,2245
+1286,2024,5,May,Spring,West,Balochistan,Sports,53617.7,588
+1287,2024,5,May,Spring,West,Balochistan,Toys,42193.19,781
+1288,2024,5,May,Spring,West,Balochistan,Books,30110.35,882
+1289,2024,5,May,Spring,West,KPK,Electronics,92381.39,340
+1290,2024,5,May,Spring,West,KPK,Clothing,65249.66,1123
+1291,2024,5,May,Spring,West,KPK,Furniture,46196.63,146
+1292,2024,5,May,Spring,West,KPK,Food & Beverages,68172.02,2526
+1293,2024,5,May,Spring,West,KPK,Sports,56200.31,521
+1294,2024,5,May,Spring,West,KPK,Toys,43595.39,786
+1295,2024,5,May,Spring,West,KPK,Books,36115.41,1070
+1296,2024,5,May,Spring,Central,Punjab,Electronics,115206.8,472
+1297,2024,5,May,Spring,Central,Punjab,Clothing,77363.62,1215
+1298,2024,5,May,Spring,Central,Punjab,Furniture,68426.85,220
+1299,2024,5,May,Spring,Central,Punjab,Food & Beverages,69379.71,2553
+1300,2024,5,May,Spring,Central,Punjab,Sports,65834.9,670
+1301,2024,5,May,Spring,Central,Punjab,Toys,52121.32,1139
+1302,2024,5,May,Spring,Central,Punjab,Books,40795.97,1135
+1303,2024,5,May,Spring,Central,Sindh,Electronics,100773.75,369
+1304,2024,5,May,Spring,Central,Sindh,Clothing,87784.04,1432
+1305,2024,5,May,Spring,Central,Sindh,Furniture,66891.61,211
+1306,2024,5,May,Spring,Central,Sindh,Food & Beverages,83725.71,3582
+1307,2024,5,May,Spring,Central,Sindh,Sports,64108.32,615
+1308,2024,5,May,Spring,Central,Sindh,Toys,54287.54,1087
+1309,2024,5,May,Spring,Central,Sindh,Books,46412.05,1335
+1310,2024,6,June,Summer,North,Punjab,Electronics,128396.14,554
+1311,2024,6,June,Summer,North,Punjab,Clothing,134731.76,2153
+1312,2024,6,June,Summer,North,Punjab,Furniture,78589.55,235
+1313,2024,6,June,Summer,North,Punjab,Food & Beverages,111742.49,4494
+1314,2024,6,June,Summer,North,Punjab,Sports,96015.1,1053
+1315,2024,6,June,Summer,North,Punjab,Toys,83746.14,1551
+1316,2024,6,June,Summer,North,Punjab,Books,65696.72,1997
+1317,2024,6,June,Summer,North,KPK,Electronics,142216.24,589
+1318,2024,6,June,Summer,North,KPK,Clothing,127904.64,2232
+1319,2024,6,June,Summer,North,KPK,Furniture,96132.31,260
+1320,2024,6,June,Summer,North,KPK,Food & Beverages,94579.83,3603
+1321,2024,6,June,Summer,North,KPK,Sports,72386.4,660
+1322,2024,6,June,Summer,North,KPK,Toys,80530.92,1612
+1323,2024,6,June,Summer,North,KPK,Books,61566.5,1847
+1324,2024,6,June,Summer,North,Gilgit-Baltistan,Electronics,144440.11,601
+1325,2024,6,June,Summer,North,Gilgit-Baltistan,Clothing,103707.79,1671
+1326,2024,6,June,Summer,North,Gilgit-Baltistan,Furniture,92015.67,263
+1327,2024,6,June,Summer,North,Gilgit-Baltistan,Food & Beverages,102482.2,4108
+1328,2024,6,June,Summer,North,Gilgit-Baltistan,Sports,76502.36,812
+1329,2024,6,June,Summer,North,Gilgit-Baltistan,Toys,74908.95,1465
+1330,2024,6,June,Summer,North,Gilgit-Baltistan,Books,61668.29,1973
+1331,2024,6,June,Summer,South,Sindh,Electronics,132211.31,482
+1332,2024,6,June,Summer,South,Sindh,Clothing,106299.35,1779
+1333,2024,6,June,Summer,South,Sindh,Furniture,83060.48,227
+1334,2024,6,June,Summer,South,Sindh,Food & Beverages,80544.44,3179
+1335,2024,6,June,Summer,South,Sindh,Sports,70065.98,715
+1336,2024,6,June,Summer,South,Sindh,Toys,59112.75,1239
+1337,2024,6,June,Summer,South,Sindh,Books,53781.42,1490
+1338,2024,6,June,Summer,South,Balochistan,Electronics,133221.22,554
+1339,2024,6,June,Summer,South,Balochistan,Clothing,90202.71,1574
+1340,2024,6,June,Summer,South,Balochistan,Furniture,75759.28,240
+1341,2024,6,June,Summer,South,Balochistan,Food & Beverages,98050.48,3660
+1342,2024,6,June,Summer,South,Balochistan,Sports,63106.91,666
+1343,2024,6,June,Summer,South,Balochistan,Toys,58350.46,1257
+1344,2024,6,June,Summer,South,Balochistan,Books,54244.48,1474
+1345,2024,6,June,Summer,East,AJK,Electronics,112052.78,427
+1346,2024,6,June,Summer,East,AJK,Clothing,71340.78,1189
+1347,2024,6,June,Summer,East,AJK,Furniture,62975.6,172
+1348,2024,6,June,Summer,East,AJK,Food & Beverages,74228.72,2886
+1349,2024,6,June,Summer,East,AJK,Sports,58133.2,589
+1350,2024,6,June,Summer,East,AJK,Toys,49263.71,937
+1351,2024,6,June,Summer,East,AJK,Books,36150.97,1100
+1352,2024,6,June,Summer,East,Punjab,Electronics,109457.12,414
+1353,2024,6,June,Summer,East,Punjab,Clothing,82297.3,1196
+1354,2024,6,June,Summer,East,Punjab,Furniture,68262.56,194
+1355,2024,6,June,Summer,East,Punjab,Food & Beverages,74602.67,2914
+1356,2024,6,June,Summer,East,Punjab,Sports,52036.78,565
+1357,2024,6,June,Summer,East,Punjab,Toys,56801.7,1148
+1358,2024,6,June,Summer,East,Punjab,Books,46136.52,1450
+1359,2024,6,June,Summer,West,Balochistan,Electronics,88993.94,343
+1360,2024,6,June,Summer,West,Balochistan,Clothing,71127.02,1188
+1361,2024,6,June,Summer,West,Balochistan,Furniture,50964.97,139
+1362,2024,6,June,Summer,West,Balochistan,Food & Beverages,64328.02,2574
+1363,2024,6,June,Summer,West,Balochistan,Sports,57911.69,541
+1364,2024,6,June,Summer,West,Balochistan,Toys,49763.34,1091
+1365,2024,6,June,Summer,West,Balochistan,Books,41449.45,1136
+1366,2024,6,June,Summer,West,KPK,Electronics,90244.98,345
+1367,2024,6,June,Summer,West,KPK,Clothing,80508.0,1243
+1368,2024,6,June,Summer,West,KPK,Furniture,55591.55,150
+1369,2024,6,June,Summer,West,KPK,Food & Beverages,60874.27,2466
+1370,2024,6,June,Summer,West,KPK,Sports,48639.81,498
+1371,2024,6,June,Summer,West,KPK,Toys,45106.52,918
+1372,2024,6,June,Summer,West,KPK,Books,36407.34,1151
+1373,2024,6,June,Summer,Central,Punjab,Electronics,103583.45,447
+1374,2024,6,June,Summer,Central,Punjab,Clothing,98326.79,1493
+1375,2024,6,June,Summer,Central,Punjab,Furniture,58270.87,171
+1376,2024,6,June,Summer,Central,Punjab,Food & Beverages,76903.58,2981
+1377,2024,6,June,Summer,Central,Punjab,Sports,71180.94,765
+1378,2024,6,June,Summer,Central,Punjab,Toys,64711.93,1165
+1379,2024,6,June,Summer,Central,Punjab,Books,47751.92,1532
+1380,2024,6,June,Summer,Central,Sindh,Electronics,121770.75,448
+1381,2024,6,June,Summer,Central,Sindh,Clothing,92015.72,1395
+1382,2024,6,June,Summer,Central,Sindh,Furniture,68236.43,186
+1383,2024,6,June,Summer,Central,Sindh,Food & Beverages,96063.74,4005
+1384,2024,6,June,Summer,Central,Sindh,Sports,56712.86,614
+1385,2024,6,June,Summer,Central,Sindh,Toys,63793.62,1280
+1386,2024,6,June,Summer,Central,Sindh,Books,48347.59,1413
+1387,2024,7,July,Summer,North,Punjab,Electronics,178209.16,653
+1388,2024,7,July,Summer,North,Punjab,Clothing,109658.4,1625
+1389,2024,7,July,Summer,North,Punjab,Furniture,102584.56,281
+1390,2024,7,July,Summer,North,Punjab,Food & Beverages,116727.61,4608
+1391,2024,7,July,Summer,North,Punjab,Sports,100711.07,954
+1392,2024,7,July,Summer,North,Punjab,Toys,72407.19,1394
+1393,2024,7,July,Summer,North,Punjab,Books,68031.29,2122
+1394,2024,7,July,Summer,North,KPK,Electronics,167014.51,643
+1395,2024,7,July,Summer,North,KPK,Clothing,116262.03,1701
+1396,2024,7,July,Summer,North,KPK,Furniture,85252.17,270
+1397,2024,7,July,Summer,North,KPK,Food & Beverages,117307.18,4368
+1398,2024,7,July,Summer,North,KPK,Sports,79499.22,789
+1399,2024,7,July,Summer,North,KPK,Toys,75812.39,1527
+1400,2024,7,July,Summer,North,KPK,Books,71097.96,2008
+1401,2024,7,July,Summer,North,Gilgit-Baltistan,Electronics,147028.8,560
+1402,2024,7,July,Summer,North,Gilgit-Baltistan,Clothing,110569.56,1647
+1403,2024,7,July,Summer,North,Gilgit-Baltistan,Furniture,98824.42,315
+1404,2024,7,July,Summer,North,Gilgit-Baltistan,Food & Beverages,121156.85,4400
+1405,2024,7,July,Summer,North,Gilgit-Baltistan,Sports,97308.72,939
+1406,2024,7,July,Summer,North,Gilgit-Baltistan,Toys,68434.38,1299
+1407,2024,7,July,Summer,North,Gilgit-Baltistan,Books,59699.5,1795
+1408,2024,7,July,Summer,South,Sindh,Electronics,139016.46,529
+1409,2024,7,July,Summer,South,Sindh,Clothing,121144.64,1756
+1410,2024,7,July,Summer,South,Sindh,Furniture,76928.36,228
+1411,2024,7,July,Summer,South,Sindh,Food & Beverages,104004.2,3952
+1412,2024,7,July,Summer,South,Sindh,Sports,73948.25,784
+1413,2024,7,July,Summer,South,Sindh,Toys,58867.9,1062
+1414,2024,7,July,Summer,South,Sindh,Books,58033.1,1909
+1415,2024,7,July,Summer,South,Balochistan,Electronics,117376.32,499
+1416,2024,7,July,Summer,South,Balochistan,Clothing,101552.56,1667
+1417,2024,7,July,Summer,South,Balochistan,Furniture,82637.72,251
+1418,2024,7,July,Summer,South,Balochistan,Food & Beverages,89796.15,3816
+1419,2024,7,July,Summer,South,Balochistan,Sports,64069.2,584
+1420,2024,7,July,Summer,South,Balochistan,Toys,73969.42,1462
+1421,2024,7,July,Summer,South,Balochistan,Books,46920.06,1521
+1422,2024,7,July,Summer,East,AJK,Electronics,118671.14,458
+1423,2024,7,July,Summer,East,AJK,Clothing,74546.69,1183
+1424,2024,7,July,Summer,East,AJK,Furniture,58345.71,177
+1425,2024,7,July,Summer,East,AJK,Food & Beverages,86843.25,3400
+1426,2024,7,July,Summer,East,AJK,Sports,52561.29,544
+1427,2024,7,July,Summer,East,AJK,Toys,48699.48,918
+1428,2024,7,July,Summer,East,AJK,Books,39145.48,1122
+1429,2024,7,July,Summer,East,Punjab,Electronics,120422.93,436
+1430,2024,7,July,Summer,East,Punjab,Clothing,89489.06,1359
+1431,2024,7,July,Summer,East,Punjab,Furniture,60816.84,179
+1432,2024,7,July,Summer,East,Punjab,Food & Beverages,80404.36,2933
+1433,2024,7,July,Summer,East,Punjab,Sports,57156.69,530
+1434,2024,7,July,Summer,East,Punjab,Toys,49131.22,1058
+1435,2024,7,July,Summer,East,Punjab,Books,43534.55,1340
+1436,2024,7,July,Summer,West,Balochistan,Electronics,104702.44,443
+1437,2024,7,July,Summer,West,Balochistan,Clothing,88075.86,1488
+1438,2024,7,July,Summer,West,Balochistan,Furniture,55165.46,166
+1439,2024,7,July,Summer,West,Balochistan,Food & Beverages,70076.43,3034
+1440,2024,7,July,Summer,West,Balochistan,Sports,54439.06,532
+1441,2024,7,July,Summer,West,Balochistan,Toys,43389.35,836
+1442,2024,7,July,Summer,West,Balochistan,Books,35163.11,1138
+1443,2024,7,July,Summer,West,KPK,Electronics,104021.9,379
+1444,2024,7,July,Summer,West,KPK,Clothing,88124.88,1418
+1445,2024,7,July,Summer,West,KPK,Furniture,62211.03,205
+1446,2024,7,July,Summer,West,KPK,Food & Beverages,80410.45,2959
+1447,2024,7,July,Summer,West,KPK,Sports,56960.03,543
+1448,2024,7,July,Summer,West,KPK,Toys,52554.51,1138
+1449,2024,7,July,Summer,West,KPK,Books,33284.07,1097
+1450,2024,7,July,Summer,Central,Punjab,Electronics,109898.82,470
+1451,2024,7,July,Summer,Central,Punjab,Clothing,104564.85,1624
+1452,2024,7,July,Summer,Central,Punjab,Furniture,79327.2,254
+1453,2024,7,July,Summer,Central,Punjab,Food & Beverages,79449.05,3236
+1454,2024,7,July,Summer,Central,Punjab,Sports,74246.69,771
+1455,2024,7,July,Summer,Central,Punjab,Toys,67451.64,1221
+1456,2024,7,July,Summer,Central,Punjab,Books,50888.08,1663
+1457,2024,7,July,Summer,Central,Sindh,Electronics,122289.83,495
+1458,2024,7,July,Summer,Central,Sindh,Clothing,87021.13,1528
+1459,2024,7,July,Summer,Central,Sindh,Furniture,80243.13,240
+1460,2024,7,July,Summer,Central,Sindh,Food & Beverages,82959.0,3312
+1461,2024,7,July,Summer,Central,Sindh,Sports,59641.25,564
+1462,2024,7,July,Summer,Central,Sindh,Toys,54938.56,1104
+1463,2024,7,July,Summer,Central,Sindh,Books,40809.84,1326
+1464,2024,8,August,Summer,North,Punjab,Electronics,149129.96,552
+1465,2024,8,August,Summer,North,Punjab,Clothing,139568.25,2420
+1466,2024,8,August,Summer,North,Punjab,Furniture,108430.87,313
+1467,2024,8,August,Summer,North,Punjab,Food & Beverages,102891.65,4186
+1468,2024,8,August,Summer,North,Punjab,Sports,104438.02,1101
+1469,2024,8,August,Summer,North,Punjab,Toys,90413.04,1938
+1470,2024,8,August,Summer,North,Punjab,Books,74572.74,2180
+1471,2024,8,August,Summer,North,KPK,Electronics,185516.11,726
+1472,2024,8,August,Summer,North,KPK,Clothing,115355.78,1772
+1473,2024,8,August,Summer,North,KPK,Furniture,87561.14,244
+1474,2024,8,August,Summer,North,KPK,Food & Beverages,136289.12,5769
+1475,2024,8,August,Summer,North,KPK,Sports,105647.6,1087
+1476,2024,8,August,Summer,North,KPK,Toys,73895.16,1616
+1477,2024,8,August,Summer,North,KPK,Books,69324.62,2258
+1478,2024,8,August,Summer,North,Gilgit-Baltistan,Electronics,177902.78,672
+1479,2024,8,August,Summer,North,Gilgit-Baltistan,Clothing,134536.81,2012
+1480,2024,8,August,Summer,North,Gilgit-Baltistan,Furniture,92584.38,288
+1481,2024,8,August,Summer,North,Gilgit-Baltistan,Food & Beverages,106691.13,4462
+1482,2024,8,August,Summer,North,Gilgit-Baltistan,Sports,105316.95,1147
+1483,2024,8,August,Summer,North,Gilgit-Baltistan,Toys,79236.65,1741
+1484,2024,8,August,Summer,North,Gilgit-Baltistan,Books,74663.66,2030
+1485,2024,8,August,Summer,South,Sindh,Electronics,142857.32,619
+1486,2024,8,August,Summer,South,Sindh,Clothing,126431.97,1909
+1487,2024,8,August,Summer,South,Sindh,Furniture,84795.35,276
+1488,2024,8,August,Summer,South,Sindh,Food & Beverages,90682.5,3805
+1489,2024,8,August,Summer,South,Sindh,Sports,72366.66,793
+1490,2024,8,August,Summer,South,Sindh,Toys,62395.38,1344
+1491,2024,8,August,Summer,South,Sindh,Books,48599.69,1518
+1492,2024,8,August,Summer,South,Balochistan,Electronics,144383.89,622
+1493,2024,8,August,Summer,South,Balochistan,Clothing,109104.7,1663
+1494,2024,8,August,Summer,South,Balochistan,Furniture,76911.55,210
+1495,2024,8,August,Summer,South,Balochistan,Food & Beverages,94220.01,3473
+1496,2024,8,August,Summer,South,Balochistan,Sports,66789.19,652
+1497,2024,8,August,Summer,South,Balochistan,Toys,74135.43,1621
+1498,2024,8,August,Summer,South,Balochistan,Books,61835.87,1852
+1499,2024,8,August,Summer,East,AJK,Electronics,109273.8,441
+1500,2024,8,August,Summer,East,AJK,Clothing,79872.48,1272
+1501,2024,8,August,Summer,East,AJK,Furniture,75471.0,233
+1502,2024,8,August,Summer,East,AJK,Food & Beverages,87829.28,3276
+1503,2024,8,August,Summer,East,AJK,Sports,56041.97,599
+1504,2024,8,August,Summer,East,AJK,Toys,53211.4,1025
+1505,2024,8,August,Summer,East,AJK,Books,51506.22,1413
+1506,2024,8,August,Summer,East,Punjab,Electronics,102176.98,398
+1507,2024,8,August,Summer,East,Punjab,Clothing,97033.71,1567
+1508,2024,8,August,Summer,East,Punjab,Furniture,76166.51,209
+1509,2024,8,August,Summer,East,Punjab,Food & Beverages,85505.87,3497
+1510,2024,8,August,Summer,East,Punjab,Sports,63927.2,579
+1511,2024,8,August,Summer,East,Punjab,Toys,64225.94,1198
+1512,2024,8,August,Summer,East,Punjab,Books,50663.76,1415
+1513,2024,8,August,Summer,West,Balochistan,Electronics,88742.04,334
+1514,2024,8,August,Summer,West,Balochistan,Clothing,73140.1,1216
+1515,2024,8,August,Summer,West,Balochistan,Furniture,64508.66,202
+1516,2024,8,August,Summer,West,Balochistan,Food & Beverages,68714.51,2628
+1517,2024,8,August,Summer,West,Balochistan,Sports,52622.63,478
+1518,2024,8,August,Summer,West,Balochistan,Toys,51485.16,1099
+1519,2024,8,August,Summer,West,Balochistan,Books,36129.82,1053
+1520,2024,8,August,Summer,West,KPK,Electronics,98610.8,378
+1521,2024,8,August,Summer,West,KPK,Clothing,84559.59,1380
+1522,2024,8,August,Summer,West,KPK,Furniture,55030.9,149
+1523,2024,8,August,Summer,West,KPK,Food & Beverages,66620.37,2553
+1524,2024,8,August,Summer,West,KPK,Sports,49956.06,533
+1525,2024,8,August,Summer,West,KPK,Toys,47502.3,930
+1526,2024,8,August,Summer,West,KPK,Books,40188.12,1244
+1527,2024,8,August,Summer,Central,Punjab,Electronics,110544.97,446
+1528,2024,8,August,Summer,Central,Punjab,Clothing,91270.81,1572
+1529,2024,8,August,Summer,Central,Punjab,Furniture,72638.03,215
+1530,2024,8,August,Summer,Central,Punjab,Food & Beverages,85838.56,3409
+1531,2024,8,August,Summer,Central,Punjab,Sports,65536.11,625
+1532,2024,8,August,Summer,Central,Punjab,Toys,54714.98,1149
+1533,2024,8,August,Summer,Central,Punjab,Books,52932.12,1456
+1534,2024,8,August,Summer,Central,Sindh,Electronics,120095.31,484
+1535,2024,8,August,Summer,Central,Sindh,Clothing,115034.14,1873
+1536,2024,8,August,Summer,Central,Sindh,Furniture,76815.69,246
+1537,2024,8,August,Summer,Central,Sindh,Food & Beverages,101226.19,3983
+1538,2024,8,August,Summer,Central,Sindh,Sports,72160.72,774
+1539,2024,8,August,Summer,Central,Sindh,Toys,62524.18,1345
+1540,2024,8,August,Summer,Central,Sindh,Books,50041.09,1374
+1541,2024,9,September,Autumn,North,Punjab,Electronics,166107.47,692
+1542,2024,9,September,Autumn,North,Punjab,Clothing,118634.75,2050
+1543,2024,9,September,Autumn,North,Punjab,Furniture,96934.81,301
+1544,2024,9,September,Autumn,North,Punjab,Food & Beverages,112601.38,4162
+1545,2024,9,September,Autumn,North,Punjab,Sports,90459.61,845
+1546,2024,9,September,Autumn,North,Punjab,Toys,84867.5,1857
+1547,2024,9,September,Autumn,North,Punjab,Books,64765.67,1797
+1548,2024,9,September,Autumn,North,KPK,Electronics,144793.25,635
+1549,2024,9,September,Autumn,North,KPK,Clothing,116262.07,2045
+1550,2024,9,September,Autumn,North,KPK,Furniture,92313.89,295
+1551,2024,9,September,Autumn,North,KPK,Food & Beverages,100786.13,4362
+1552,2024,9,September,Autumn,North,KPK,Sports,94414.7,862
+1553,2024,9,September,Autumn,North,KPK,Toys,71612.44,1402
+1554,2024,9,September,Autumn,North,KPK,Books,56187.84,1610
+1555,2024,9,September,Autumn,North,Gilgit-Baltistan,Electronics,146339.67,629
+1556,2024,9,September,Autumn,North,Gilgit-Baltistan,Clothing,128752.03,2110
+1557,2024,9,September,Autumn,North,Gilgit-Baltistan,Furniture,89521.86,264
+1558,2024,9,September,Autumn,North,Gilgit-Baltistan,Food & Beverages,105890.48,3937
+1559,2024,9,September,Autumn,North,Gilgit-Baltistan,Sports,86195.41,906
+1560,2024,9,September,Autumn,North,Gilgit-Baltistan,Toys,83873.42,1820
+1561,2024,9,September,Autumn,North,Gilgit-Baltistan,Books,60394.77,1667
+1562,2024,9,September,Autumn,South,Sindh,Electronics,117352.81,472
+1563,2024,9,September,Autumn,South,Sindh,Clothing,95621.09,1502
+1564,2024,9,September,Autumn,South,Sindh,Furniture,72600.06,217
+1565,2024,9,September,Autumn,South,Sindh,Food & Beverages,94966.05,3447
+1566,2024,9,September,Autumn,South,Sindh,Sports,66272.28,615
+1567,2024,9,September,Autumn,South,Sindh,Toys,64743.81,1345
+1568,2024,9,September,Autumn,South,Sindh,Books,43219.6,1397
+1569,2024,9,September,Autumn,South,Balochistan,Electronics,119060.81,451
+1570,2024,9,September,Autumn,South,Balochistan,Clothing,107716.09,1868
+1571,2024,9,September,Autumn,South,Balochistan,Furniture,84201.79,228
+1572,2024,9,September,Autumn,South,Balochistan,Food & Beverages,100716.04,3869
+1573,2024,9,September,Autumn,South,Balochistan,Sports,66377.43,662
+1574,2024,9,September,Autumn,South,Balochistan,Toys,66390.2,1221
+1575,2024,9,September,Autumn,South,Balochistan,Books,55711.21,1549
+1576,2024,9,September,Autumn,East,AJK,Electronics,117196.47,463
+1577,2024,9,September,Autumn,East,AJK,Clothing,90103.07,1375
+1578,2024,9,September,Autumn,East,AJK,Furniture,60022.96,185
+1579,2024,9,September,Autumn,East,AJK,Food & Beverages,68196.08,2570
+1580,2024,9,September,Autumn,East,AJK,Sports,63790.67,668
+1581,2024,9,September,Autumn,East,AJK,Toys,55293.6,1187
+1582,2024,9,September,Autumn,East,AJK,Books,44992.37,1353
+1583,2024,9,September,Autumn,East,Punjab,Electronics,92103.17,354
+1584,2024,9,September,Autumn,East,Punjab,Clothing,82247.33,1220
+1585,2024,9,September,Autumn,East,Punjab,Furniture,68047.72,219
+1586,2024,9,September,Autumn,East,Punjab,Food & Beverages,64607.42,2425
+1587,2024,9,September,Autumn,East,Punjab,Sports,63946.96,682
+1588,2024,9,September,Autumn,East,Punjab,Toys,47444.66,940
+1589,2024,9,September,Autumn,East,Punjab,Books,46186.8,1442
+1590,2024,9,September,Autumn,West,Balochistan,Electronics,85016.02,362
+1591,2024,9,September,Autumn,West,Balochistan,Clothing,73072.21,1200
+1592,2024,9,September,Autumn,West,Balochistan,Furniture,48545.5,131
+1593,2024,9,September,Autumn,West,Balochistan,Food & Beverages,64321.17,2621
+1594,2024,9,September,Autumn,West,Balochistan,Sports,46681.26,501
+1595,2024,9,September,Autumn,West,Balochistan,Toys,46788.52,907
+1596,2024,9,September,Autumn,West,Balochistan,Books,32797.49,1061
+1597,2024,9,September,Autumn,West,KPK,Electronics,98011.58,406
+1598,2024,9,September,Autumn,West,KPK,Clothing,68255.6,1067
+1599,2024,9,September,Autumn,West,KPK,Furniture,49186.29,149
+1600,2024,9,September,Autumn,West,KPK,Food & Beverages,76208.11,3266
+1601,2024,9,September,Autumn,West,KPK,Sports,53964.98,558
+1602,2024,9,September,Autumn,West,KPK,Toys,42441.06,833
+1603,2024,9,September,Autumn,West,KPK,Books,31227.45,989
+1604,2024,9,September,Autumn,Central,Punjab,Electronics,123150.99,444
+1605,2024,9,September,Autumn,Central,Punjab,Clothing,102459.06,1687
+1606,2024,9,September,Autumn,Central,Punjab,Furniture,70475.43,190
+1607,2024,9,September,Autumn,Central,Punjab,Food & Beverages,77389.95,3284
+1608,2024,9,September,Autumn,Central,Punjab,Sports,60829.81,665
+1609,2024,9,September,Autumn,Central,Punjab,Toys,59440.86,1170
+1610,2024,9,September,Autumn,Central,Punjab,Books,43910.18,1277
+1611,2024,9,September,Autumn,Central,Sindh,Electronics,105518.36,419
+1612,2024,9,September,Autumn,Central,Sindh,Clothing,96048.09,1636
+1613,2024,9,September,Autumn,Central,Sindh,Furniture,66289.57,183
+1614,2024,9,September,Autumn,Central,Sindh,Food & Beverages,83888.76,3464
+1615,2024,9,September,Autumn,Central,Sindh,Sports,71252.84,694
+1616,2024,9,September,Autumn,Central,Sindh,Toys,59519.55,1216
+1617,2024,9,September,Autumn,Central,Sindh,Books,42843.15,1184
+1618,2024,10,October,Autumn,North,Punjab,Electronics,149146.33,654
+1619,2024,10,October,Autumn,North,Punjab,Clothing,143070.25,2454
+1620,2024,10,October,Autumn,North,Punjab,Furniture,95582.31,298
+1621,2024,10,October,Autumn,North,Punjab,Food & Beverages,140652.9,5399
+1622,2024,10,October,Autumn,North,Punjab,Sports,87027.74,916
+1623,2024,10,October,Autumn,North,Punjab,Toys,96087.94,2039
+1624,2024,10,October,Autumn,North,Punjab,Books,74866.27,2290
+1625,2024,10,October,Autumn,North,KPK,Electronics,179864.1,745
+1626,2024,10,October,Autumn,North,KPK,Clothing,146393.33,2415
+1627,2024,10,October,Autumn,North,KPK,Furniture,118325.83,337
+1628,2024,10,October,Autumn,North,KPK,Food & Beverages,122765.69,4800
+1629,2024,10,October,Autumn,North,KPK,Sports,83684.33,871
+1630,2024,10,October,Autumn,North,KPK,Toys,87654.37,1644
+1631,2024,10,October,Autumn,North,KPK,Books,73305.12,2077
+1632,2024,10,October,Autumn,North,Gilgit-Baltistan,Electronics,173383.02,733
+1633,2024,10,October,Autumn,North,Gilgit-Baltistan,Clothing,154022.39,2549
+1634,2024,10,October,Autumn,North,Gilgit-Baltistan,Furniture,103185.94,330
+1635,2024,10,October,Autumn,North,Gilgit-Baltistan,Food & Beverages,138699.79,5965
+1636,2024,10,October,Autumn,North,Gilgit-Baltistan,Sports,87938.1,808
+1637,2024,10,October,Autumn,North,Gilgit-Baltistan,Toys,76223.28,1450
+1638,2024,10,October,Autumn,North,Gilgit-Baltistan,Books,74989.42,2367
+1639,2024,10,October,Autumn,South,Sindh,Electronics,131394.46,544
+1640,2024,10,October,Autumn,South,Sindh,Clothing,110432.12,1621
+1641,2024,10,October,Autumn,South,Sindh,Furniture,83337.69,262
+1642,2024,10,October,Autumn,South,Sindh,Food & Beverages,100317.53,4243
+1643,2024,10,October,Autumn,South,Sindh,Sports,78116.23,743
+1644,2024,10,October,Autumn,South,Sindh,Toys,68114.43,1457
+1645,2024,10,October,Autumn,South,Sindh,Books,57566.63,1853
+1646,2024,10,October,Autumn,South,Balochistan,Electronics,148840.51,648
+1647,2024,10,October,Autumn,South,Balochistan,Clothing,101217.73,1745
+1648,2024,10,October,Autumn,South,Balochistan,Furniture,87132.48,280
+1649,2024,10,October,Autumn,South,Balochistan,Food & Beverages,102700.04,3942
+1650,2024,10,October,Autumn,South,Balochistan,Sports,71272.47,763
+1651,2024,10,October,Autumn,South,Balochistan,Toys,64701.82,1216
+1652,2024,10,October,Autumn,South,Balochistan,Books,56497.76,1718
+1653,2024,10,October,Autumn,East,AJK,Electronics,133291.97,528
+1654,2024,10,October,Autumn,East,AJK,Clothing,89804.73,1498
+1655,2024,10,October,Autumn,East,AJK,Furniture,77244.88,231
+1656,2024,10,October,Autumn,East,AJK,Food & Beverages,90544.67,3387
+1657,2024,10,October,Autumn,East,AJK,Sports,70036.34,630
+1658,2024,10,October,Autumn,East,AJK,Toys,55364.27,1165
+1659,2024,10,October,Autumn,East,AJK,Books,42795.64,1351
+1660,2024,10,October,Autumn,East,Punjab,Electronics,118428.53,498
+1661,2024,10,October,Autumn,East,Punjab,Clothing,83294.23,1363
+1662,2024,10,October,Autumn,East,Punjab,Furniture,74134.5,218
+1663,2024,10,October,Autumn,East,Punjab,Food & Beverages,99281.81,3878
+1664,2024,10,October,Autumn,East,Punjab,Sports,57983.9,544
+1665,2024,10,October,Autumn,East,Punjab,Toys,57138.67,1031
+1666,2024,10,October,Autumn,East,Punjab,Books,44985.47,1439
+1667,2024,10,October,Autumn,West,Balochistan,Electronics,95797.47,396
+1668,2024,10,October,Autumn,West,Balochistan,Clothing,87690.75,1332
+1669,2024,10,October,Autumn,West,Balochistan,Furniture,67038.52,194
+1670,2024,10,October,Autumn,West,Balochistan,Food & Beverages,68819.32,2688
+1671,2024,10,October,Autumn,West,Balochistan,Sports,61431.82,573
+1672,2024,10,October,Autumn,West,Balochistan,Toys,57929.69,1111
+1673,2024,10,October,Autumn,West,Balochistan,Books,39589.37,1241
+1674,2024,10,October,Autumn,West,KPK,Electronics,108653.0,420
+1675,2024,10,October,Autumn,West,KPK,Clothing,94312.81,1658
+1676,2024,10,October,Autumn,West,KPK,Furniture,60370.67,195
+1677,2024,10,October,Autumn,West,KPK,Food & Beverages,74170.12,2781
+1678,2024,10,October,Autumn,West,KPK,Sports,67884.01,735
+1679,2024,10,October,Autumn,West,KPK,Toys,51269.72,969
+1680,2024,10,October,Autumn,West,KPK,Books,45118.68,1253
+1681,2024,10,October,Autumn,Central,Punjab,Electronics,141269.43,575
+1682,2024,10,October,Autumn,Central,Punjab,Clothing,95113.44,1481
+1683,2024,10,October,Autumn,Central,Punjab,Furniture,82776.84,225
+1684,2024,10,October,Autumn,Central,Punjab,Food & Beverages,107734.84,4098
+1685,2024,10,October,Autumn,Central,Punjab,Sports,75579.42,687
+1686,2024,10,October,Autumn,Central,Punjab,Toys,75794.67,1564
+1687,2024,10,October,Autumn,Central,Punjab,Books,55232.51,1497
+1688,2024,10,October,Autumn,Central,Sindh,Electronics,139514.09,548
+1689,2024,10,October,Autumn,Central,Sindh,Clothing,101806.44,1644
+1690,2024,10,October,Autumn,Central,Sindh,Furniture,78591.66,219
+1691,2024,10,October,Autumn,Central,Sindh,Food & Beverages,102468.38,4205
+1692,2024,10,October,Autumn,Central,Sindh,Sports,70337.05,726
+1693,2024,10,October,Autumn,Central,Sindh,Toys,69217.16,1320
+1694,2024,10,October,Autumn,Central,Sindh,Books,54473.25,1515
+1695,2024,11,November,Autumn,North,Punjab,Electronics,214343.18,789
+1696,2024,11,November,Autumn,North,Punjab,Clothing,166238.26,2456
+1697,2024,11,November,Autumn,North,Punjab,Furniture,103451.84,285
+1698,2024,11,November,Autumn,North,Punjab,Food & Beverages,130071.94,4890
+1699,2024,11,November,Autumn,North,Punjab,Sports,102643.25,1031
+1700,2024,11,November,Autumn,North,Punjab,Toys,88773.94,1847
+1701,2024,11,November,Autumn,North,Punjab,Books,73211.22,1994
+1702,2024,11,November,Autumn,North,KPK,Electronics,194786.75,733
+1703,2024,11,November,Autumn,North,KPK,Clothing,176270.22,2724
+1704,2024,11,November,Autumn,North,KPK,Furniture,99546.1,308
+1705,2024,11,November,Autumn,North,KPK,Food & Beverages,160455.15,6848
+1706,2024,11,November,Autumn,North,KPK,Sports,116103.08,1079
+1707,2024,11,November,Autumn,North,KPK,Toys,85509.92,1714
+1708,2024,11,November,Autumn,North,KPK,Books,83231.39,2297
+1709,2024,11,November,Autumn,North,Gilgit-Baltistan,Electronics,180719.69,684
+1710,2024,11,November,Autumn,North,Gilgit-Baltistan,Clothing,178869.57,2745
+1711,2024,11,November,Autumn,North,Gilgit-Baltistan,Furniture,115746.14,319
+1712,2024,11,November,Autumn,North,Gilgit-Baltistan,Food & Beverages,129044.71,4686
+1713,2024,11,November,Autumn,North,Gilgit-Baltistan,Sports,103557.3,1098
+1714,2024,11,November,Autumn,North,Gilgit-Baltistan,Toys,92021.68,1928
+1715,2024,11,November,Autumn,North,Gilgit-Baltistan,Books,68522.96,2161
+1716,2024,11,November,Autumn,South,Sindh,Electronics,142521.51,610
+1717,2024,11,November,Autumn,South,Sindh,Clothing,138468.86,2069
+1718,2024,11,November,Autumn,South,Sindh,Furniture,94768.56,280
+1719,2024,11,November,Autumn,South,Sindh,Food & Beverages,125421.6,5396
+1720,2024,11,November,Autumn,South,Sindh,Sports,82082.28,872
+1721,2024,11,November,Autumn,South,Sindh,Toys,74651.02,1463
+1722,2024,11,November,Autumn,South,Sindh,Books,75153.74,2151
+1723,2024,11,November,Autumn,South,Balochistan,Electronics,159342.92,682
+1724,2024,11,November,Autumn,South,Balochistan,Clothing,143876.0,2370
+1725,2024,11,November,Autumn,South,Balochistan,Furniture,107818.21,298
+1726,2024,11,November,Autumn,South,Balochistan,Food & Beverages,128120.97,4672
+1727,2024,11,November,Autumn,South,Balochistan,Sports,105911.2,986
+1728,2024,11,November,Autumn,South,Balochistan,Toys,80421.69,1637
+1729,2024,11,November,Autumn,South,Balochistan,Books,71984.84,2236
+1730,2024,11,November,Autumn,East,AJK,Electronics,122091.05,476
+1731,2024,11,November,Autumn,East,AJK,Clothing,103418.6,1498
+1732,2024,11,November,Autumn,East,AJK,Furniture,85482.48,273
+1733,2024,11,November,Autumn,East,AJK,Food & Beverages,113061.3,4188
+1734,2024,11,November,Autumn,East,AJK,Sports,86148.13,794
+1735,2024,11,November,Autumn,East,AJK,Toys,65703.51,1194
+1736,2024,11,November,Autumn,East,AJK,Books,50138.13,1448
+1737,2024,11,November,Autumn,East,Punjab,Electronics,143285.01,593
+1738,2024,11,November,Autumn,East,Punjab,Clothing,116667.93,1895
+1739,2024,11,November,Autumn,East,Punjab,Furniture,82579.8,271
+1740,2024,11,November,Autumn,East,Punjab,Food & Beverages,104044.38,4027
+1741,2024,11,November,Autumn,East,Punjab,Sports,77030.22,801
+1742,2024,11,November,Autumn,East,Punjab,Toys,59303.65,1224
+1743,2024,11,November,Autumn,East,Punjab,Books,49926.95,1451
+1744,2024,11,November,Autumn,West,Balochistan,Electronics,126346.64,493
+1745,2024,11,November,Autumn,West,Balochistan,Clothing,105764.15,1711
+1746,2024,11,November,Autumn,West,Balochistan,Furniture,82536.3,225
+1747,2024,11,November,Autumn,West,Balochistan,Food & Beverages,91785.73,3419
+1748,2024,11,November,Autumn,West,Balochistan,Sports,75116.45,804
+1749,2024,11,November,Autumn,West,Balochistan,Toys,66649.48,1219
+1750,2024,11,November,Autumn,West,Balochistan,Books,47879.73,1361
+1751,2024,11,November,Autumn,West,KPK,Electronics,136925.22,498
+1752,2024,11,November,Autumn,West,KPK,Clothing,88013.95,1448
+1753,2024,11,November,Autumn,West,KPK,Furniture,69910.78,198
+1754,2024,11,November,Autumn,West,KPK,Food & Beverages,86920.1,3686
+1755,2024,11,November,Autumn,West,KPK,Sports,66941.21,717
+1756,2024,11,November,Autumn,West,KPK,Toys,59047.23,1090
+1757,2024,11,November,Autumn,West,KPK,Books,47962.18,1483
+1758,2024,11,November,Autumn,Central,Punjab,Electronics,132118.95,519
+1759,2024,11,November,Autumn,Central,Punjab,Clothing,122056.72,1757
+1760,2024,11,November,Autumn,Central,Punjab,Furniture,78954.18,241
+1761,2024,11,November,Autumn,Central,Punjab,Food & Beverages,113929.18,4379
+1762,2024,11,November,Autumn,Central,Punjab,Sports,85212.61,802
+1763,2024,11,November,Autumn,Central,Punjab,Toys,78858.17,1719
+1764,2024,11,November,Autumn,Central,Punjab,Books,57540.16,1572
+1765,2024,11,November,Autumn,Central,Sindh,Electronics,137531.32,545
+1766,2024,11,November,Autumn,Central,Sindh,Clothing,122165.43,2001
+1767,2024,11,November,Autumn,Central,Sindh,Furniture,89274.61,276
+1768,2024,11,November,Autumn,Central,Sindh,Food & Beverages,117125.15,4323
+1769,2024,11,November,Autumn,Central,Sindh,Sports,91612.66,865
+1770,2024,11,November,Autumn,Central,Sindh,Toys,71430.54,1522
+1771,2024,11,November,Autumn,Central,Sindh,Books,68359.81,1965
+1772,2024,12,December,Winter,North,Punjab,Electronics,219840.46,914
+1773,2024,12,December,Winter,North,Punjab,Clothing,150911.51,2252
+1774,2024,12,December,Winter,North,Punjab,Furniture,116905.34,365
+1775,2024,12,December,Winter,North,Punjab,Food & Beverages,170805.47,6295
+1776,2024,12,December,Winter,North,Punjab,Sports,127875.7,1198
+1777,2024,12,December,Winter,North,Punjab,Toys,123293.88,2413
+1778,2024,12,December,Winter,North,Punjab,Books,86234.26,2732
+1779,2024,12,December,Winter,North,KPK,Electronics,232603.94,857
+1780,2024,12,December,Winter,North,KPK,Clothing,170236.88,2956
+1781,2024,12,December,Winter,North,KPK,Furniture,144306.47,440
+1782,2024,12,December,Winter,North,KPK,Food & Beverages,173236.03,6860
+1783,2024,12,December,Winter,North,KPK,Sports,129643.18,1414
+1784,2024,12,December,Winter,North,KPK,Toys,97230.68,1944
+1785,2024,12,December,Winter,North,KPK,Books,88155.79,2405
+1786,2024,12,December,Winter,North,Gilgit-Baltistan,Electronics,246921.4,1054
+1787,2024,12,December,Winter,North,Gilgit-Baltistan,Clothing,173825.36,2785
+1788,2024,12,December,Winter,North,Gilgit-Baltistan,Furniture,147596.73,414
+1789,2024,12,December,Winter,North,Gilgit-Baltistan,Food & Beverages,163934.38,6859
+1790,2024,12,December,Winter,North,Gilgit-Baltistan,Sports,109962.56,1074
+1791,2024,12,December,Winter,North,Gilgit-Baltistan,Toys,112493.89,2422
+1792,2024,12,December,Winter,North,Gilgit-Baltistan,Books,87467.72,2563
+1793,2024,12,December,Winter,South,Sindh,Electronics,211383.52,915
+1794,2024,12,December,Winter,South,Sindh,Clothing,159476.84,2436
+1795,2024,12,December,Winter,South,Sindh,Furniture,126300.98,414
+1796,2024,12,December,Winter,South,Sindh,Food & Beverages,133602.9,4952
+1797,2024,12,December,Winter,South,Sindh,Sports,101978.81,1060
+1798,2024,12,December,Winter,South,Sindh,Toys,99286.39,1905
+1799,2024,12,December,Winter,South,Sindh,Books,78388.34,2521
+1800,2024,12,December,Winter,South,Balochistan,Electronics,196546.31,854
+1801,2024,12,December,Winter,South,Balochistan,Clothing,153720.33,2312
+1802,2024,12,December,Winter,South,Balochistan,Furniture,115010.31,330
+1803,2024,12,December,Winter,South,Balochistan,Food & Beverages,129230.26,5347
+1804,2024,12,December,Winter,South,Balochistan,Sports,119841.64,1234
+1805,2024,12,December,Winter,South,Balochistan,Toys,105104.81,2103
+1806,2024,12,December,Winter,South,Balochistan,Books,78229.06,2263
+1807,2024,12,December,Winter,East,AJK,Electronics,133754.78,519
+1808,2024,12,December,Winter,East,AJK,Clothing,120247.66,1951
+1809,2024,12,December,Winter,East,AJK,Furniture,95269.35,281
+1810,2024,12,December,Winter,East,AJK,Food & Beverages,119125.11,5090
+1811,2024,12,December,Winter,East,AJK,Sports,80177.49,857
+1812,2024,12,December,Winter,East,AJK,Toys,82592.35,1659
+1813,2024,12,December,Winter,East,AJK,Books,51866.54,1445
+1814,2024,12,December,Winter,East,Punjab,Electronics,158922.73,597
+1815,2024,12,December,Winter,East,Punjab,Clothing,130038.71,1939
+1816,2024,12,December,Winter,East,Punjab,Furniture,84912.53,242
+1817,2024,12,December,Winter,East,Punjab,Food & Beverages,122169.2,5073
+1818,2024,12,December,Winter,East,Punjab,Sports,80414.29,844
+1819,2024,12,December,Winter,East,Punjab,Toys,64992.71,1381
+1820,2024,12,December,Winter,East,Punjab,Books,53267.4,1715
+1821,2024,12,December,Winter,West,Balochistan,Electronics,144056.34,618
+1822,2024,12,December,Winter,West,Balochistan,Clothing,115339.27,1868
+1823,2024,12,December,Winter,West,Balochistan,Furniture,74291.91,235
+1824,2024,12,December,Winter,West,Balochistan,Food & Beverages,107395.56,4113
+1825,2024,12,December,Winter,West,Balochistan,Sports,79918.35,867
+1826,2024,12,December,Winter,West,Balochistan,Toys,64933.1,1417
+1827,2024,12,December,Winter,West,Balochistan,Books,61434.07,1773
+1828,2024,12,December,Winter,West,KPK,Electronics,136501.66,492
+1829,2024,12,December,Winter,West,KPK,Clothing,99499.26,1630
+1830,2024,12,December,Winter,West,KPK,Furniture,87436.14,281
+1831,2024,12,December,Winter,West,KPK,Food & Beverages,108316.95,4689
+1832,2024,12,December,Winter,West,KPK,Sports,80835.36,832
+1833,2024,12,December,Winter,West,KPK,Toys,72342.97,1460
+1834,2024,12,December,Winter,West,KPK,Books,55427.43,1754
+1835,2024,12,December,Winter,Central,Punjab,Electronics,191400.21,734
+1836,2024,12,December,Winter,Central,Punjab,Clothing,121393.81,2013
+1837,2024,12,December,Winter,Central,Punjab,Furniture,91334.17,256
+1838,2024,12,December,Winter,Central,Punjab,Food & Beverages,123711.78,4826
+1839,2024,12,December,Winter,Central,Punjab,Sports,93158.18,942
+1840,2024,12,December,Winter,Central,Punjab,Toys,74677.68,1518
+1841,2024,12,December,Winter,Central,Punjab,Books,62261.13,1804
+1842,2024,12,December,Winter,Central,Sindh,Electronics,178568.34,664
+1843,2024,12,December,Winter,Central,Sindh,Clothing,120437.32,1858
+1844,2024,12,December,Winter,Central,Sindh,Furniture,87217.87,284
+1845,2024,12,December,Winter,Central,Sindh,Food & Beverages,127472.9,5264
+1846,2024,12,December,Winter,Central,Sindh,Sports,94930.13,963
+1847,2024,12,December,Winter,Central,Sindh,Toys,80423.76,1699
+1848,2024,12,December,Winter,Central,Sindh,Books,63528.04,1799
