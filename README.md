@@ -14,17 +14,17 @@ A comprehensive 5-practical analytics project covering the full BI workflow — 
 retail-bi-analytics/
 ├── dataset/
 │   ├── RETAIL_TRANSACTIONS.csv        # Main flat table (1,848 rows)
-│   └── Retail_Dataset_All_Practicals.xlsx  # Star schema (Fact + 3 Dimensions)
+│   └── Retail_Dataset.xlsx  # Star schema (Fact + 3 Dimensions)
 ├── practical-1-sql-core-analytics/
-│   └── Practical_1_Completed.docx
+│   └── Retail Data Warehouse — Analytics.pdf
 ├── practical-2-diagnostic-charts/
-│   └── Practical_2_Completed.docx
+│   └── Diagnostic Analytics Charts.pdf
 ├── practical-3-geospatial-powerbi/
-│   └── Practical_3_Completed.docx
+│   └──Multi-Dimensional Sales Analytics with Geospatial Visualization.pdf
 ├── practical-4-advanced-ai-visuals/
-│   └── Practical_4_Completed.docx
+│   └── Advanced Sales Analytics and Visualization.pdf
 └── practical-5-systematic-review/
-    ├── Practical_5_Completed.docx
+    ├── Systematic Review, Data Analysis & Visualization.pdf
     └── P5_Papers_Dataset.xlsx
 ```
 
